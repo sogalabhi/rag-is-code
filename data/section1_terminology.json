@@ -1,0 +1,758 @@
+[
+  {
+    "clause_id": "1.1",
+    "content": "Scope",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.1.1",
+    "content": "This standard applies to general construction using hot rolled steel sections joined using riveting, bolting and welding. Specific provisions for bridges, chimneys, cranes, tanks, transmission line towers, bulk storage structures, tubular structures, cold formed light gauge steel sections, etc, are covered in separate standards.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.1.2",
+    "content": "This standard gives only general guidance as regards the various loads to be considered in design. For the actual loads and load combinations to be used, reference may be made to IS 875 for dead, live, snow and wind loads and to IS 1893 (Part 1) for earthquake loads.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.1.3",
+    "content": "Fabrication and erection requirements covered in this standard are general and the minimum necessary quality of material and workmanship consistent with assumptions in the design rules. The actual requirements may be further developed as per other standards or the project specification, the type of structure and the method of construction.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.1.4",
+    "content": "For seismic design, recommendations pertaining to steel frames only are covered in this standard. For more detailed information on seismic design of other structural and non-structural components, refrence should be made to IS 1893 (Part 1) and other special publications on the subject.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.2",
+    "content": "References The standards listed in Annex A contain provisions which through reference in this text, constitute provisions of this standard. At the time of publication, the editions indicated were valid. All standards are subject to revision and parties to agreements based on this standard are encouraged to investigate the possibility of applying the most recent editions of the standards indicated in Annex A.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3",
+    "content": "Terminology For the purpose of this standard, the following definitions shall apply.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.1",
+    "content": "Accidental Loads — Loads due to explosion, impact of vehicles, or other rare loads for which the structure is considered to be vulnerable as per the user.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.2",
+    "content": "Accompanying Load — Live (imposed) load acting along with leading imposed load but causing lower actions and/or deflections.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.3",
+    "content": "Action Effect or Load Effect — The internal force, axial, shear, bending or twisting moment, due to external actions and temperature loads,",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.4",
+    "content": "Action — The primary cause for stress or deformations in a structure such as dead, live, wind, seismic or temperature loads.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.5",
+    "content": "Actual Length — The length between centre-to- centre of intersection points, with supporting members or the cantilever length in the case of a free standing member.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.6",
+    "content": "Beam — A member subjected predominantly to bending.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.7",
+    "content": "Bearing Type Connection — A connection made using bolts in ‘snug-tight’ condition, or rivets where the load is transferred by bearing of bolts or rivets against plate inside the bolt hole.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.8",
+    "content": "Braced Member — A member in which the relative transverse displacement is effectively prevented by bracing.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.9",
+    "content": "Brittle Cladding — Claddings, such as asbestos cement sheets which get damaged before undergoing considerable deformation.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.10",
+    "content": "Buckling Load— The load at which an element, a member or a structure as a whole, either collapses in service or buckles in a load test and develops excessive lateral (out of plane) deformation or instability.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.11",
+    "content": "Buckling Strength or Resistance — Force or moment, which a member can withstand without buckling.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.12",
+    "content": "Bui/t-ap Section — A member fabricated by interconnecting more than one element to form a compound section acting as a single member.",
+    "start_page": 15,
+    "end_page": 15
+  },
+  {
+    "clause_id": "1.3.13",
+    "content": "Camber- Intentionally introduced pre-curving (usually upwards) in a system, member or any portion of a member with respect to its chord. Frequently, camber is introduced to compensate for deflections at a specific level of loads.",
+    "start_page": 15,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.14",
+    "content": "Characteristic Load (Action) — The value of specified load (action), above which not more than a specified percentage (usually 5 percent) of samples of corresponding load are expected to be encountered.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.15",
+    "content": "Characteristic Yield/Ultimate Stress — The minimum value of stress, below which not more than a specified percentage (usually 5 percent) of corresponding stresses of samples tested are expected to occur.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.16",
+    "content": "Column — A member in upright (vertical) position which supports a roof or floor system and predominantly subjected to compression.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.17",
+    "content": "Compact Section —A cross-section, which can develop plastic moment, but has inadequate plastic rotation capacity needed for formation of a plastic collapse mechanism of the member or structure.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.18",
+    "content": "Constant Stress Range — The amplitude between which the stress ranges under cyclic loading is constant during the life of the structure or a structural element.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.19",
+    "content": "Corrosion — An electrochemical process over the surface of steel, leading to oxidation of the metal.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.20",
+    "content": "Crane Load — Horizontal and vertical loads from cranes.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.21",
+    "content": "Cumulative Fatigue — Total damage due to fatigue loading of varying stress ranges.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.22",
+    "content": "Cut-o~Limit — The stress range, corresponding to the particular detail, below which cyclic loading need not be considered in cumulative fatigue damage evaluation (corresponds to 108 numbers of cycles in most cases).",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.23",
+    "content": "Dead Loads — The self-weights of all permanent constructions and installations including the self-weight of all walls, partitions, floors, roofs, and other permanent fixtures acting on a member.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.24",
+    "content": "Dejection — It is the deviation from the standard position of a member or structure.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.25",
+    "content": "Design Life — Time period for which a structure or a structural element is required to perform its function without damage.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.26",
+    "content": "Design Load/Factored Load — A load value ob~~ined by multiplying the characteristic load with a load factor.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.27",
+    "content": "Design Spectrum — Frequency distribution of the stress ranges from all the nominal loading events during the design life (stress spectrum).",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.28",
+    "content": "Detail Category — Designation given to a particular detail to indicate the S-N curve to be used in fatigue assessment.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.29",
+    "content": "Discontinuity — A sudden change in cross- section of a loaded member, causing a stress concentration at the location.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.30",
+    "content": "Ductility — It is the property of the material or a structure indicating the extent to which it can deform beyond the limit of yield deformation before failure or fracture. The ratio of ultimate to yield deformation is usually termed as ductility.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.31",
+    "content": "Durability — It is the ability of a material to resist deterioration over long periods of time.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.32",
+    "content": "Earthquake Loads — The inertia forces produced in a structure due to the ground movement during an earthquake.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.33",
+    "content": "Edge Distance — Distance from the centre of a fastener hole to the nearest edge of an element measured perpendicular to the direction of load transfer.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.34",
+    "content": "Eflective Lateral Restraint — Restraint, that produces sufficient resistance to prevent deformation in the lateral direction.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.35",
+    "content": "Effective Length — Actual length of a member between points of effective restraint or effective restraint and free end, multiplied by a factor to take account of the end conditions in buckling strength calculations.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.36",
+    "content": "Elastic Cladding — Claddings, such as metal sheets, that can undergo considerable deformation without damage.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.37",
+    "content": "Elastic Critical Moment —The elastic moment, which initiates lateral-torsional buckling of a laterally unsupported beam.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.38",
+    "content": "Elastic Design — Design, which assumes elastic behaviour of materials throughout the service load range.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.39",
+    "content": "Elastic Limit — It is the stress below which the material regains its original size and shape when the load is removed. In steel design, it is taken as the yield stress.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.40",
+    "content": "End Distance — Distance from the centre of a fastener hole to the edge of an element measured parallel to the direction of load transfer.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.41",
+    "content": "Erection Loads — The actions (loads and deformations) experienced by the structure exclusively during erection.",
+    "start_page": 16,
+    "end_page": 16
+  },
+  {
+    "clause_id": "1.3.42",
+    "content": "Erection Tolerance — Amount of deviation related to the plumbness, alignment, and level of the element as a whole in the erected position. The deviations are determined by considering the locations of the ends of the element.",
+    "start_page": 16,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.43",
+    "content": "Exposed Surface Area to Mass Ratio — The ratio of the surface area exposed to the fire (in mm2) to the mass of steel (in kg). NOTE — In the case of members with tire protection material applied, the exposed surface area is to be taken as the internal sur~acearea of the fire protection material.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.44",
+    "content": "Fabrication Tolerance — Amount of deviation allowed in the nominal dimensions and geometry in fabrication activities, such as cutting to length, finishing of ends, cutting of bevel angles, etc.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.45",
+    "content": "Factor of Safety — The factor by which the yield stress of the material of a member is divided to arrive at the permissible stress in the material.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.46",
+    "content": "Fatigue — Damage caused by repeated fluctuations of stress, leading to progressive cmcking of a structural element.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.47",
+    "content": "Fatigue Loading — Set of nominal loading events, cyclic in nature, described by the distribution of the loads, their magnitudes and the number of applications in each nominal loading event.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.48",
+    "content": "Fatigue Strength — The stress range for a category of detail, depending upon the number of cycles it is required to withstand during design life.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.49",
+    "content": "Fire Exposure Condition a) Three-sidedfire exposure condition — Steel member incorporated in or in contact with a concrete or masonry floor or wall (at least against one surface). NOTES 1Three-sided fire exposure condition is to be considered separately unless otherwise specified (see 16.10). 2 Members with more than one face in contact with a concrete or masonry floor or wall may be treated as three-sided tire exposure. b) Four-sided jire exposure condition — Steel member, which may be exposed to fire on all sides.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.50",
+    "content": "Fire Protection System — The fire protection material and its method of attachment to the steel member.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.51",
+    "content": "Fire Resistance — The ability of an element, component or structure, to fulfil for a stated period of time, the required stability, integrity, thermal insulation and/or other expected performance specified in a standard fire test.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.52",
+    "content": "Fire Resistance Level —The fwe resistance grading period for a structural element or system, in minutes, which is required to be attained in the standard fire test.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.53",
+    "content": "Flexural Stiffness — Stiffness of a member against rotation as evaluated by the value of bending deformation moment required to cause a unit rotation while all other degrees of freedom of the joints of the member except the rotated one are assumed to be restrained.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.54",
+    "content": "Friction Type Connection — Connection effected by using pre-tensioned high strength bolts where shear force transfer is due to mobilisation of friction between the connected plates due to clamping force developed at the interface of connected plates by the bolt pre-tension.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.55",
+    "content": "Gauge — The spacing between adjacent parallel lines of fasteners, transverse to the direction of load/ stress.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.56",
+    "content": "Gravity Load — Loads arising due to gravitational effects.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.57",
+    "content": "Gwsset Plate — The plate to which the members intersecting at a joint are connected.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.58",
+    "content": "High Shear — High shear condition is caused when the actual shear due to factored load is greater than a certain fraction of design shear resistance (see 9.2.2).",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.59",
+    "content": "Imposed (Live) Load — The load assumed to be produced by the intended use or occupancy including distributed, concentrated, impact, vibration and snow loads but excluding, wind, earthquake and temperature loads.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.60",
+    "content": "Instability — The phenomenon which disables an element, member or a structure to carry further load due to excessive deflection lateral to the direction of loading and vanishing stiffness.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.61",
+    "content": "Lateral Restraint for a Beam (see 1.3.34)",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.62",
+    "content": "Leading Imposed Load— Imposed load causing higher action and/or deflection.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.63",
+    "content": "Limit State — Any limiting condition beyond which the structure ceases to fulfil its intended function (see also 1.3.86).",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.64",
+    "content": "Live Load (see 1.3.59)",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.65",
+    "content": "Load — An externally applied force or action (see also 1.3.4).",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.66",
+    "content": "Main Member — A structural member, which is primarily responsible for carrying and distributing the applied load or action.",
+    "start_page": 17,
+    "end_page": 17
+  },
+  {
+    "clause_id": "1.3.67",
+    "content": "Mill Tolerance — Amount of variation allowed from the nominal dimensions and geometry, with respect to cross-sectional area, non-parallelism of flanges, and out of straightness such as sweep or camber, in a product, as manufactured in a steel mill.",
+    "start_page": 17,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.68",
+    "content": "Normal Stress — Stress component acting normal to the face, plane or section.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.69",
+    "content": "Partial Safety Factor — The factor normally greater than unity by which either the loads (actions) are multiplied or the resistances are divided to obtain the design values.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.70",
+    "content": "Period of Structural Adequacy under Fire —— The time (t), in minutes, for the member to reach the limit state of structural inadequacy in a standard fire test.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.71",
+    "content": "Permissible S~rcss — When a structure is being designed by the working stress method, the maximum stress that is permitted to be experienced in elements, members or structures under the nominal/service load (action).",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.72",
+    "content": "Pitch — The centre-to-centre distance between individual fasteners in a line, in the direction of load/ stress.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.73",
+    "content": "Plastic Collapse — The failure stage at which sufficient number of plastic hinges have formed due to the loads (actions) in a structure leading to a failure mechanism.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.74",
+    "content": "Plastic IMsi,gn — Design against the limit state of plastic collapse.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.75",
+    "content": "Plastic Hinge — A yielding zone with significant inelastic rotation, which forms in a member, when the plastic moment is reached at a section.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.76",
+    "content": "Plastic Mo~nent — Moment capacity of a cross- section when the entire cross-section has yielded due to bending moment.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.77",
+    "content": "Plastic Section — Cross-section, which can develop a plastic hinge and sustain piastic moment over sufficient plastic rotation required for formation of plastic failure mechanism of the member or structure.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.78",
+    "content": "Poisson’s Ratio — It is the absolute value of the ratio of lateral strain to longitudinal strain under uni-axial Ioading.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.79",
+    "content": "Proof Stress — The stress to which high strength friction grip (HSFG) bolts are pre-tensioned.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.80",
+    "content": "Proof Testing — The application of test loads to a structure, sub-structure, member or connection to ascertain the structural characteristics of only that specific unit.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.81",
+    "content": "Prototype Testing — Testing of structure, sub- structure, members or connections to ascertain the structural characteristics of that class of structures, sub- structures, members or connections that are nominally identical (full scale) to the units tested.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.82",
+    "content": "Prying Force — Additional tensile force developed in a bolt as a result of the flexing of a connection component such as a beam end plate or leg of an angle.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.83",
+    "content": "Rotatiort — The change in angle at a joint between the original orientation of two linear member and their final position under Ioadlng.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.84",
+    "content": "Secondary Member — Member which is provided for overall stability and or for restraining the main members from buckling or similar modes of failure.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.85",
+    "content": "Semi-compact Section — Cross-section, which can attain the yield moment, but not the plastic moment before failure by plate buckling.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.86",
+    "content": "Serviceability .Lirnit State — A limit state of acceptable service condition exceedence of which causes serviceability failure.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.87",
+    "content": "Shear Force — The inplane force at any transverse cross-section of a straight member of a column or beam.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.88",
+    "content": "Shear Lag — The in plane shear deformation effect by which concentrated forces tangential to the surface of a plate gets distributed over the entire section perpendicular to the load over a finite length of the plate along the direction of the load.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.89",
+    "content": "Shear Stress — The stress component acting parallel to a face, plane or cross-section.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.90",
+    "content": "Slender Section — Cross-section in which the elements buckle locally before reaching yield moment.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.91",
+    "content": "Slenderness Ratio — The ratio of the effective length of a member to the radius of gyration of the cross-section about the axis under consideration.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.92",
+    "content": "Slip Resistance — Limit shear that can be applied in a friction grip connection before slip occurs.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.93",
+    "content": "S-N Curve —The curve defining the relationship between the number of stress cycles to failure (N,c) at a constant stress range (SC), during fatigue loading of a structure.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.94",
+    "content": "Snow Load — Load on a structure due to the accumulation of snow and ice on surfaces such as roof.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.95",
+    "content": "Snug i’ight ——The tightness of a bolt achieved by a few impacts of an impact wrench or by the full effort of a person using a standard spanner.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.96",
+    "content": "Stability Limit State — A limit state corresponding to the loss of static equilibrium of a structure by excessive deflection transverse to the direction of predominant loads.",
+    "start_page": 18,
+    "end_page": 18
+  },
+  {
+    "clause_id": "1.3.97",
+    "content": "Stackability — The ability of the fire protection system to remain in place as the member deflects under load during a fire test.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.98",
+    "content": "St~ffener — An element used to retain or prevent the out-of-plane deformations of plates.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.99",
+    "content": "Strain — Deformation per unit length or unit angle.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.100",
+    "content": "Strain Hardening — The phenomenon of increase in stress with increase in strain beyond yielding.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.101",
+    "content": "Strength — Resistance to failure by yielding or buckling.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.102",
+    "content": "Strength Limir State — A limit state of collapse or loss of structural integrity.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.103",
+    "content": "Stress — The internal force per unit area of the original cross-section,",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.104",
+    "content": "Stress Analysis —The analysis of the internal force and stress condition in an element, member or structure.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.105",
+    "content": "Stress Cycle Counting — Sum of individual stress cycles from stress history arrived at using any rational method.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.106",
+    "content": "Stress Range — Algebraic difference between two extremes of stresses in a cycle of loading.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.107",
+    "content": "Stress Spectrum — Histogram of stress cycles produced by a nominal loading event design spectrum, during design life.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.108",
+    "content": "Structural Adequacy for Fire — The ability of the member to carry the test load exposed to the standard fire test.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.109",
+    "content": "Structural Analysis — The analysis of stress, strain, and deflection characteristics of a structure.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.110",
+    "content": "Strut — A compression member, which may be oriented in any direction.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.111",
+    "content": "Sway — The lateral deflection of a frame.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.112",
+    "content": "Sway Member — A member in which the transverse displacement of one end, relative to the other is not effectively prevented.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.113",
+    "content": "Tensile Stress — The characteristic stress corresponding to rupture in tension, specified for the grade of steel in the appropriate Indian Standard, as listed in Table 1.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.114",
+    "content": "Test Load — The factored load, equivalent to a specified load combination appropriate for the type of test being performed.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.115",
+    "content": "Transverse — Direction atong the stronger axes of the cross-section of the member.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.116",
+    "content": "Ultimate Limit State — The state which, if exceeded can cause collapse of a part or the whole of the structure.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.117",
+    "content": "Ultimate Stress (see 1.3.113)",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.118",
+    "content": "Wind Loads — Load experienced by member or structure due to wind pressure acting on the surfaces.",
+    "start_page": 19,
+    "end_page": 19
+  },
+  {
+    "clause_id": "1.3.119",
+    "content": "Yield Stress — The characteristic stress of the material in tension before the elastic limit of the material is exceeded, as specified in the appropriate Indian Stwdard, as listed in Table 1.",
+    "start_page": 19,
+    "end_page": 19
+  }
+]

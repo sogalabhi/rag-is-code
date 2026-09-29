@@ -1,4 +1,5 @@
 from pathlib import Path
+import json
 import pymupdf
 
 PDF_PATH = Path(__file__).resolve().parent.parent / "data" / "is.800.2007.pdf"
@@ -136,5 +137,18 @@ print("Missing clauses:", expected - detected)
 for clause in clauses:
     if clause["clause_id"] == "1.3.105":
         print(clause)
+
+OUTPUT_PATH = PDF_PATH.parent / "section1_terminology.json"
+
+with open(OUTPUT_PATH, "w", encoding="utf-8") as file:
+    json.dump(
+        clauses,
+        file,
+        ensure_ascii=False,
+        indent=2
+    )
+
+print(f"Saved {len(clauses)} clauses to {OUTPUT_PATH}")
+print(json.dumps(clauses[-1], indent=2, ensure_ascii=False))
 
 doc.close()
