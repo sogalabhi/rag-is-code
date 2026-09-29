@@ -5,236 +5,136 @@ PDF_PATH = Path(__file__).resolve().parent.parent / "data" / "is.800.2007.pdf"
 
 doc = pymupdf.open(PDF_PATH)
 
-page = doc[14]
-
-print("Page dimensions:", page.rect)
-
-blocks = page.get_text("blocks")
-
-text_blocks = [block for block in blocks if block[6] == 0]
-
-print("Total text blocks:", len(text_blocks))
-
-
-
-content_blocks = []
-
-for block in text_blocks:
-    x0, y0, x1, y1, text, block_no, block_type = block
-
-    if not text.strip():
-        continue
-
-    if y0 < 160 or y0 > 720:
-        continue
-
-    content_blocks.append(block)
-
-
-midpoint = page.rect.width / 2
-
-left_blocks = []
-right_blocks = []
-
-for block in content_blocks:
-    x0 = block[0]
-
-    if x0 < midpoint:
-        left_blocks.append(block)
-    else:
-        right_blocks.append(block)
-
-print("Left column:", len(left_blocks))
-print("Right column:", len(right_blocks))
-
-
-left_blocks.sort(key=lambda block: block[1])
-right_blocks.sort(key=lambda block: block[1])
-
-# Combine in reading order
-ordered_blocks = left_blocks + right_blocks
-
-for block in ordered_blocks:
-    block_no = block[5]
-    text = " ".join(block[4].split())
-
-    print(f"Block {block_no:02} | {text[:75]}")
-
-
-
-page_text = "\n".join(
-    " ".join(block[4].split())
-    for block in ordered_blocks
-)
-
-print("\n--- RECONSTRUCTED PAGE ---\n")
-print(page_text)
-
-
 import re
 
-# Pattern for numbered clauses
-clause_pattern = re.compile(r"^(\d+(?:\.\d+)+)\s+")
+clause_pattern = re.compile(r"^(\d+(?:[.,]\d+)+)\s+")
 
-print("\n--- DETECTED CLAUSES ---\n")
+def extract_page(page, top_cutoff=30, bottom_cutoff=720):
 
-for line in page_text.splitlines():
+    blocks = page.get_text("blocks")
 
-    match = clause_pattern.match(line)
+    # Filter text blocks
+    content_blocks = [
+        block for block in blocks
+        if (
+            block[6] == 0
+            and block[4].strip()
+            and top_cutoff <= block[1] < bottom_cutoff
+        )
+    ]
 
-    if match:
-        clause_number = match.group(1)
-        print(clause_number)
+    # Separate columns
+    midpoint = page.rect.width * 0.4
 
+    left = sorted(
+        [b for b in content_blocks if b[0] < midpoint],
+        key=lambda b: b[1]
+    )
 
-print("Content blocks:", len(content_blocks))
-clauses = []
+    right = sorted(
+        [b for b in content_blocks if b[0] >= midpoint],
+        key=lambda b: b[1]
+    )
 
-for line in page_text.splitlines():
-    match = clause_pattern.match(line)
+    # Reconstruct text
+    ordered_blocks = left + right
 
-    if match:
-        clauses.append(match.group(1))
-
-print("Total clauses:", len(clauses))
-print(clauses)
-
-
-clause_pattern = re.compile(r"^(\d+(?:\.\d+)+)\s+")
-
-clauses = []
-current_clause = None
-
-for line in page_text.splitlines():
-
-    line = line.strip()
-    match = clause_pattern.match(line)
-
-    if match:
-
-        # Save the previous clause
-        if current_clause:
-            clauses.append(current_clause)
-
-        # Start a new clause
-        current_clause = {
-            "clause_id": match.group(1),
-            "content": line[match.end():].strip()
-        }
-
-    elif current_clause:
-
-        # Continue the current clause
-        current_clause["content"] += " " + line
-
-# Save the final clause
-if current_clause:
-    clauses.append(current_clause)
-
-print("Total extracted clauses:", len(clauses))
-
-for clause in clauses[:3]:
-    print(clause)
-    print("-" * 50)
-
-
-# Inspect the second actual code page
-next_page = doc[15]
-
-print("\n--- PAGE 16 BLOCKS ---\n")
-
-for block in next_page.get_text("blocks"):
-
-    x0, y0, x1, y1, text, block_no, block_type = block
-
-    if block_type != 0 or not text.strip():
-        continue
-
-    preview = " ".join(text.split())[:85]
-
-    print(
-        f"Block {block_no:02} | "
-        f"x0={x0:6.1f} | "
-        f"y0={y0:6.1f} | "
-        f"{preview}"
+    return "\n".join(
+        " ".join(block[4].split())
+        for block in ordered_blocks
     )
 
 
-# Second code page
-page16 = doc[15]
 
-blocks16 = [
-    block for block in page16.get_text("blocks")
-    if (
-        block[6] == 0
-        and block[4].strip()
-        and 30 <= block[1] < 720
-    )
+# PDF page index and its top cutoff
+
+page_specs = [
+    (14, 160),  # Page 15
+    (15, 30),   # Page 16
+    (16, 30),   # Page 17
+    (17, 30),   # Page 18
+    (18, 30),   # Page 19
 ]
 
-midpoint = page16.rect.width / 2
 
-left16 = sorted(
-    [b for b in blocks16 if b[0] < midpoint],
-    key=lambda b: b[1]
-)
+all_lines = []
 
-right16 = sorted(
-    [b for b in blocks16 if b[0] >= midpoint],
-    key=lambda b: b[1]
-)
+for page_index, top_cutoff in page_specs:
 
-ordered16 = left16 + right16
+    page = doc[page_index]
 
-page16_text = "\n".join(
-    " ".join(block[4].split())
-    for block in ordered16
-)
+    page_text = extract_page(
+        page,
+        top_cutoff=top_cutoff
+    )
 
-print("Page 16 content blocks:", len(ordered16))
+    pdf_page = page_index + 1
 
+    for line in page_text.splitlines():
+        if line.startswith("1.4 Symbols"):
+            break
 
-all_lines = (
-    [(15, line) for line in page_text.splitlines()]
-    +
-    [(16, line) for line in page16_text.splitlines()]
-)
+        if line.startswith("I.3.105 "):
+            line = "1" + line[1:]
 
+        all_lines.append((pdf_page, line))
+
+print("\n--- PAGE 19 RECONSTRUCTED TEXT ---\n")
+page19_text = extract_page(doc[18], top_cutoff=30)
+for line in page19_text.splitlines():
+    print(repr(line[:90]))
+
+print("\n--- PAGE 19 PARSER INPUT ---\n")
+for page_number, line in all_lines:
+    if page_number != 19:
+        continue
+    match = clause_pattern.match(line)
+    if line.startswith(("1.3", "I.3")):
+        print(
+            repr(line[:65]),
+            "=>",
+            match.group(1) if match else "NO MATCH"
+        )
 
 clauses = []
 current_clause = None
 
 for page_number, line in all_lines:
-
     line = line.strip()
     match = clause_pattern.match(line)
 
     if match:
-
         if current_clause:
             clauses.append(current_clause)
 
         current_clause = {
-            "clause_id": match.group(1),
+            "clause_id": match.group(1).replace(",", "."),
             "content": line[match.end():].strip(),
             "start_page": page_number,
             "end_page": page_number
         }
-
     elif current_clause:
-
         current_clause["content"] += " " + line
         current_clause["end_page"] = page_number
 
 if current_clause:
     clauses.append(current_clause)
+print("Total extracted clauses:", len(clauses))
 
+# Check cross-page and cross-column clauses
+for clause in clauses:
+    if clause["clause_id"] in ["1.3.67", "1.3.81"]:
+        print(clause)
+        print("-" * 50)
+
+# Validate all terminology clauses
+expected = {f"1.3.{i}" for i in range(1, 120)}
+detected = {clause["clause_id"] for clause in clauses}
+
+print("Missing clauses:", expected - detected)
 
 for clause in clauses:
-    if clause["clause_id"] == "1.3.13":
+    if clause["clause_id"] == "1.3.105":
         print(clause)
-        break
-
-print("Total extracted clauses:", len(clauses))
 
 doc.close()
