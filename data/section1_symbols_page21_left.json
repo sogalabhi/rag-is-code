@@ -1,0 +1,738 @@
+[
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      48.96089172363281,
+      70,
+      76.24360656738281
+    ],
+    "meaning": "permissible tensile stress at service ,oad",
+    "meaning_bbox": [
+      87.95999145507812,
+      52.96089172363281,
+      230.51861572265625,
+      76.24360656738281
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      74.64210510253906,
+      70,
+      102.16481018066406
+    ],
+    "meaning": "Permissible tensile stress of the bolt it service load",
+    "meaning_bbox": [
+      87.95988464355469,
+      78.64210510253906,
+      232.44361877441406,
+      102.16481018066406
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      100.56330871582031,
+      70,
+      128.0860137939453
+    ],
+    "meaning": "Permissible stress of the weld at service load",
+    "meaning_bbox": [
+      87.95986938476562,
+      104.56330871582031,
+      233.88340759277344,
+      128.0860137939453
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      126.48451232910156,
+      70,
+      142.0066680908203
+    ],
+    "meaning": "Actual bending stress at service load",
+    "meaning_bbox": [
+      87.95986938476562,
+      130.48451232910156,
+      232.6819305419922,
+      142.0066680908203
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      140.40516662597656,
+      70,
+      168.1678009033203
+    ],
+    "meaning": "Actual bending stress in compression at service load",
+    "meaning_bbox": [
+      87.95993041992188,
+      144.40516662597656,
+      228.1152801513672,
+      168.1678009033203
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      166.56629943847656,
+      70,
+      194.08900451660156
+    ],
+    "meaning": "Design bending compressive stress corresponding to lateral buckling",
+    "meaning_bbox": [
+      87.96002197265625,
+      170.56629943847656,
+      232.20143127441406,
+      194.08900451660156
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      192.24745178222656,
+      70,
+      220.0100860595703
+    ],
+    "meaning": "Actual bearing stress due to bending at service load",
+    "meaning_bbox": [
+      87.95993041992188,
+      196.24745178222656,
+      230.5189971923828,
+      220.0100860595703
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      218.40858459472656,
+      70,
+      245.93128967285156
+    ],
+    "meaning": "Actual bending stress in tension at service load",
+    "meaning_bbox": [
+      87.96002197265625,
+      222.40858459472656,
+      234.84373474121094,
+      245.93128967285156
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      245.0497589111328,
+      70,
+      272.5724792480469
+    ],
+    "meaning": "Permissible bending stress in column base at service load",
+    "meaning_bbox": [
+      88.20014953613281,
+      249.0497589111328,
+      231.72007751464844,
+      272.5724792480469
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      270.9709777832031,
+      70,
+      298.7336120605469
+    ],
+    "meaning": "Actual axial compressive stress at service load",
+    "meaning_bbox": [
+      88.68020629882812,
+      274.9709777832031,
+      235.0837860107422,
+      298.7336120605469
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      297.37213134765625,
+      70,
+      324.65484619140625
+    ],
+    "meaning": "Elastic buckling stress of a column, Euler buckling stress",
+    "meaning_bbox": [
+      88.92022705078125,
+      301.37213134765625,
+      231.47933959960938,
+      324.65484619140625
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      322.3332824707031,
+      70,
+      337.8554382324219
+    ],
+    "meaning": "Design compressive stress",
+    "meaning_bbox": [
+      88.92022705078125,
+      326.3332824707031,
+      192.599853515625,
+      337.8554382324219
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      336.49395751953125,
+      70,
+      376.01727294921875
+    ],
+    "meaning": "Extreme fibre compressive stress corresponding elastic lateral buckling moment",
+    "meaning_bbox": [
+      88.92019653320312,
+      340.49395751953125,
+      231.9615936279297,
+      376.01727294921875
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      374.6557922363281,
+      70,
+      390.1779479980469
+    ],
+    "meaning": "Equivalent stress at service load",
+    "meaning_bbox": [
+      89.16021728515625,
+      378.6557922363281,
+      216.60154724121094,
+      390.1779479980469
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      388.81646728515625,
+      70,
+      416.3392028808594
+    ],
+    "meaning": "Fatigue stress range corresponding to 5 x 10’ cycles of loading",
+    "meaning_bbox": [
+      89.16041564941406,
+      392.81646728515625,
+      235.8057403564453,
+      416.3392028808594
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      414.97772216796875,
+      70,
+      430.4998779296875
+    ],
+    "meaning": "Equivalent constant amplitude stress",
+    "meaning_bbox": [
+      89.88047790527344,
+      418.97772216796875,
+      233.88185119628906,
+      430.4998779296875
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      428.6583557128906,
+      70,
+      444.1805114746094
+    ],
+    "meaning": "Design normal fatigue strength",
+    "meaning_bbox": [
+      89.8804931640625,
+      432.6583557128906,
+      211.07870483398438,
+      444.1805114746094
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      442.81903076171875,
+      70,
+      458.3411865234375
+    ],
+    "meaning": "Highest normal stress range",
+    "meaning_bbox": [
+      89.88050842285156,
+      446.81903076171875,
+      199.5583953857422,
+      458.3411865234375
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      456.73968505859375,
+      70,
+      472.2618408203125
+    ],
+    "meaning": "Normal fatigue stress range",
+    "meaning_bbox": [
+      89.880615234375,
+      460.73968505859375,
+      198.59841918945312,
+      472.2618408203125
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      470.66033935546875,
+      70,
+      486.1824951171875
+    ],
+    "meaning": "Normal stress in weld at service load",
+    "meaning_bbox": [
+      89.88070678710938,
+      474.66033935546875,
+      234.8426971435547,
+      486.1824951171875
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      484.8210144042969,
+      70,
+      500.3431701660156
+    ],
+    "meaning": "Proof stress",
+    "meaning_bbox": [
+      89.88070678710938,
+      488.8210144042969,
+      134.0377197265625,
+      500.3431701660156
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      498.9817199707031,
+      70,
+      514.5038452148438
+    ],
+    "meaning": "Actual bearing stress at service load",
+    "meaning_bbox": [
+      89.88070678710938,
+      502.9817199707031,
+      234.1226348876953,
+      514.5038452148438
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      512.90234375,
+      70,
+      540.6649780273438
+    ],
+    "meaning": "Actual bearing stress in bending at service load",
+    "meaning_bbox": [
+      89.88069152832031,
+      516.90234375,
+      236.52427673339844,
+      540.6649780273438
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      539.303466796875,
+      70,
+      554.8256225585938
+    ],
+    "meaning": "Bearing strength of the stiffeners",
+    "meaning_bbox": [
+      89.88069152832031,
+      543.303466796875,
+      218.51719665527344,
+      554.8256225585938
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      553.22412109375,
+      70,
+      568.7462768554688
+    ],
+    "meaning": "Frequency",
+    "meaning_bbox": [
+      89.88070678710938,
+      557.22412109375,
+      126.3525390625,
+      568.7462768554688
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      567.144775390625,
+      70,
+      594.66748046875
+    ],
+    "meaning": "Actual shear stress in bolt at service load",
+    "meaning_bbox": [
+      89.88052368164062,
+      571.144775390625,
+      233.8792724609375,
+      594.66748046875
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      593.3060302734375,
+      70,
+      608.8281860351562
+    ],
+    "meaning": "Actual tensile stress at service load",
+    "meaning_bbox": [
+      90.12054443359375,
+      597.3060302734375,
+      230.5224151611328,
+      608.8281860351562
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      607.4666748046875,
+      70,
+      634.9893798828125
+    ],
+    "meaning": "Actual tensile stress of the bolt at service load",
+    "meaning_bbox": [
+      89.88058471679688,
+      611.4666748046875,
+      236.7642059326172,
+      634.9893798828125
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      633.3878784179688,
+      70,
+      648.9100341796875
+    ],
+    "meaning": "Characteristic ultimate tensile stress",
+    "meaning_bbox": [
+      90.12062072753906,
+      637.3878784179688,
+      233.88206481933594,
+      648.9100341796875
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      647.5485229492188,
+      70,
+      675.0712280273438
+    ],
+    "meaning": "Characteristic ultimate tensile stress of the bolt",
+    "meaning_bbox": [
+      90.12071228027344,
+      651.5485229492188,
+      235.08216857910156,
+      675.0712280273438
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      673.709716796875,
+      70,
+      701.2324829101562
+    ],
+    "meaning": "Average ultimate stress of the material as obtained from test",
+    "meaning_bbox": [
+      90.3607177734375,
+      677.709716796875,
+      235.323486328125,
+      701.2324829101562
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  },
+  {
+    "raw_text": null,
+    "bbox": null,
+    "symbol_region": [
+      25,
+      699.8709716796875,
+      70,
+      727.3937377929688
+    ],
+    "meaning": "Characteristic ultimate tensile stress of the connected plate",
+    "meaning_bbox": [
+      90.36080932617188,
+      703.8709716796875,
+      235.5623016357422,
+      727.3937377929688
+    ],
+    "page": 21,
+    "column": "left",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_transcription",
+    "region_status": "provisional"
+  }
+]

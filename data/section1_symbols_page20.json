@@ -1,0 +1,2464 @@
+[
+  {
+    "raw_text": "A,n",
+    "bbox": [
+      42.04874038696289,
+      37.243019104003906,
+      53.80564498901367,
+      47.789161682128906
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "A,n",
+        "origin": [
+          42.04874038696289,
+          45.45709228515625
+        ],
+        "bbox": [
+          42.04874038696289,
+          37.243019104003906,
+          53.80564498901367,
+          47.789161682128906
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Net sectional area in tension from the centre of the hole to the toe of the angle perpendicular to the line of force (see 6.4)",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "Av",
+    "bbox": [
+      42.52878189086914,
+      86.9251480102539,
+      51.644107818603516,
+      97.4712905883789
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "Av",
+        "origin": [
+          42.52878189086914,
+          95.13922119140625
+        ],
+        "bbox": [
+          42.52878189086914,
+          86.9251480102539,
+          51.644107818603516,
+          97.4712905883789
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Shear area",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "Av,",
+    "bbox": [
+      42.52878189086914,
+      101.0857925415039,
+      53.804683685302734,
+      111.6319351196289
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "Av,",
+        "origin": [
+          42.52878189086914,
+          109.29986572265625
+        ],
+        "bbox": [
+          42.52878189086914,
+          101.0857925415039,
+          53.804683685302734,
+          111.6319351196289
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Gross cross-sectional area in shear along the line of transmitted force (see 6.4)",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,,",
+    "bbox": [
+      42.768802642822266,
+      139.0074920654297,
+      52.36638259887695,
+      149.5536346435547
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "A,,",
+        "origin": [
+          42.768802642822266,
+          147.2215576171875
+        ],
+        "bbox": [
+          42.768802642822266,
+          139.0074920654297,
+          52.36638259887695,
+          149.5536346435547
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Net cross-sectional area in shear along the line of transmitted force (se: 6.4 )",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "a, b",
+    "bbox": [
+      43.48886489868164,
+      176.6891326904297,
+      57.88791275024414,
+      187.2352752685547
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "a,",
+        "origin": [
+          43.48886489868164,
+          184.9031982421875
+        ],
+        "bbox": [
+          43.48886489868164,
+          176.6891326904297,
+          49.967220306396484,
+          187.2352752685547
+        ]
+      },
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 512,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": " ",
+        "origin": [
+          49.967220306396484,
+          184.9031982421875
+        ],
+        "bbox": [
+          49.967220306396484,
+          176.6891326904297,
+          53.56926345825195,
+          187.2352752685547
+        ]
+      },
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b",
+        "origin": [
+          53.56926345825195,
+          184.9031982421875
+        ],
+        "bbox": [
+          53.56926345825195,
+          176.6891326904297,
+          57.88791275024414,
+          187.2352752685547
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Larger and smaller projection of the slab base beyond the rectangle circumscribing the column, respectively (see 7.4)",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "aO",
+    "bbox": [
+      43.48886489868164,
+      226.61131286621094,
+      54.0452766418457,
+      237.15745544433594
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "aO",
+        "origin": [
+          43.48886489868164,
+          234.82537841796875
+        ],
+        "bbox": [
+          43.48886489868164,
+          226.61131286621094,
+          54.0452766418457,
+          237.15745544433594
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Peak acceleration",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "al",
+    "bbox": [
+      43.48886489868164,
+      243.6520233154297,
+      50.20811080932617,
+      254.1981658935547
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "al",
+        "origin": [
+          43.48886489868164,
+          251.8660888671875
+        ],
+        "bbox": [
+          43.48886489868164,
+          243.6520233154297,
+          50.20811080932617,
+          254.1981658935547
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Unsupported length of individual elements being laced between lacing points",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "B",
+    "bbox": [
+      43.48886489868164,
+      279.4136047363281,
+      48.76625442504883,
+      289.9597473144531
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "B",
+        "origin": [
+          43.48886489868164,
+          287.627685546875
+        ],
+        "bbox": [
+          43.48886489868164,
+          279.4136047363281,
+          48.76625442504883,
+          289.9597473144531
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Length of side of cap or base plate of a column",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b",
+    "bbox": [
+      43.96890640258789,
+      305.5747375488281,
+      48.28755569458008,
+      316.1208801269531
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b",
+        "origin": [
+          43.96890640258789,
+          313.788818359375
+        ],
+        "bbox": [
+          43.96890640258789,
+          305.5747375488281,
+          48.28755569458008,
+          316.1208801269531
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Outstand/width of the element",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b,",
+    "bbox": [
+      43.48886489868164,
+      319.0153503417969,
+      49.967220306396484,
+      329.5614929199219
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b,",
+        "origin": [
+          43.48886489868164,
+          327.22943115234375
+        ],
+        "bbox": [
+          43.48886489868164,
+          319.0153503417969,
+          49.967220306396484,
+          329.5614929199219
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Stiff bearing length, Stiffener bearing length",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "be",
+    "bbox": [
+      43.728885650634766,
+      345.1764831542969,
+      51.8848991394043,
+      355.7226257324219
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "be",
+        "origin": [
+          43.728885650634766,
+          353.39056396484375
+        ],
+        "bbox": [
+          43.728885650634766,
+          345.1764831542969,
+          51.8848991394043,
+          355.7226257324219
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Effective width of flange between pair of bolts",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b,",
+    "bbox": [
+      43.728885650634766,
+      371.3376159667969,
+      50.20724105834961,
+      381.8837585449219
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b,",
+        "origin": [
+          43.728885650634766,
+          379.55169677734375
+        ],
+        "bbox": [
+          43.728885650634766,
+          371.3376159667969,
+          50.20724105834961,
+          381.8837585449219
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Width of the flange",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b,",
+    "bbox": [
+      43.728885650634766,
+      385.2582702636719,
+      50.20724105834961,
+      395.8044128417969
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b,",
+        "origin": [
+          43.728885650634766,
+          393.47235107421875
+        ],
+        "bbox": [
+          43.728885650634766,
+          385.2582702636719,
+          50.20724105834961,
+          395.8044128417969
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Width of flange as an internal element",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b,,",
+    "bbox": [
+      43.728885650634766,
+      399.4189453125,
+      52.366947174072266,
+      409.965087890625
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b,,",
+        "origin": [
+          43.728885650634766,
+          407.6330261230469
+        ],
+        "bbox": [
+          43.728885650634766,
+          399.4189453125,
+          52.366947174072266,
+          409.965087890625
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Width of flange outstand",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b,",
+    "bbox": [
+      43.728885650634766,
+      413.339599609375,
+      50.20724105834961,
+      423.8857421875
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b,",
+        "origin": [
+          43.728885650634766,
+          421.5536804199219
+        ],
+        "bbox": [
+          43.728885650634766,
+          413.339599609375,
+          50.20724105834961,
+          423.8857421875
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Panel zone width between column flanges at beam-column junction",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b,",
+    "bbox": [
+      43.728885650634766,
+      439.02069091796875,
+      50.20724105834961,
+      449.56683349609375
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b,",
+        "origin": [
+          43.728885650634766,
+          447.2347717285156
+        ],
+        "bbox": [
+          43.728885650634766,
+          439.02069091796875,
+          50.20724105834961,
+          449.56683349609375
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Shear lag distance",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b,",
+    "bbox": [
+      43.96890640258789,
+      453.1813659667969,
+      50.447261810302734,
+      463.7275085449219
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b,",
+        "origin": [
+          43.96890640258789,
+          461.39544677734375
+        ],
+        "bbox": [
+          43.96890640258789,
+          453.1813659667969,
+          50.447261810302734,
+          463.7275085449219
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Width of tension field",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "b.",
+    "bbox": [
+      43.96890640258789,
+      467.1020202636719,
+      50.447261810302734,
+      477.6481628417969
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "b.",
+        "origin": [
+          43.96890640258789,
+          475.31610107421875
+        ],
+        "bbox": [
+          43.96890640258789,
+          467.1020202636719,
+          50.447261810302734,
+          477.6481628417969
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Width of outstanding leg",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "c",
+    "bbox": [
+      44.208927154541016,
+      480.3817138671875,
+      48.043888092041016,
+      491.90386962890625
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 4,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Roman",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0529999732971191,
+        "descender": -0.2809999883174896,
+        "text": "c",
+        "origin": [
+          44.208927154541016,
+          489.4767761230469
+        ],
+        "bbox": [
+          44.208927154541016,
+          480.3817138671875,
+          48.043888092041016,
+          491.90386962890625
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Centre-to-centre longitudinal distance of battens",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "cm",
+    "bbox": [
+      44.44894790649414,
+      506.7828674316406,
+      55.0053596496582,
+      518.3049926757812
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 4,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Roman",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0529999732971191,
+        "descender": -0.2809999883174896,
+        "text": "cm",
+        "origin": [
+          44.44894790649414,
+          515.8779296875
+        ],
+        "bbox": [
+          44.44894790649414,
+          506.7828674316406,
+          55.0053596496582,
+          518.3049926757812
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Coefficient of thermal expansion",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "Cn,y,Cmz—",
+    "bbox": [
+      44.2079963684082,
+      521.5842895507812,
+      88.14102935791016,
+      532.1376953125
+    ],
+    "spans": [
+      {
+        "size": 10.553400039672852,
+        "flags": 2,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Helvetica-Narrow-Oblique",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.7179999947547913,
+        "descender": -0.2070000022649765,
+        "text": "Cn,y,Cmz—",
+        "origin": [
+          44.2079963684082,
+          529.7760009765625
+        ],
+        "bbox": [
+          44.2079963684082,
+          521.5842895507812,
+          88.14102935791016,
+          532.1376953125
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Moment amplification factor about respective axes",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "c",
+    "bbox": [
+      44.2079963684082,
+      547.8362426757812,
+      47.7244758605957,
+      558.4015502929688
+    ],
+    "spans": [
+      {
+        "size": 7.920000076293945,
+        "flags": 4,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Roman",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0529999732971191,
+        "descender": -0.2809999883174896,
+        "text": "c",
+        "origin": [
+          44.2079963684082,
+          556.176025390625
+        ],
+        "bbox": [
+          44.2079963684082,
+          547.8362426757812,
+          47.7244758605957,
+          558.4015502929688
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Spacing of transverse stiffener",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "Ch",
+    "bbox": [
+      44.2079963684082,
+      566.0604858398438,
+      52.565185546875,
+      574.6513061523438
+    ],
+    "spans": [
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 8,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": "Ch",
+        "origin": [
+          44.2079963684082,
+          572.7360229492188
+        ],
+        "bbox": [
+          44.2079963684082,
+          566.0604858398438,
+          52.565185546875,
+          574.6513061523438
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Moment amplification factor for braced member",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "C,n",
+    "bbox": [
+      44.2079963684082,
+      587.6762084960938,
+      55.46786117553711,
+      598.2415161132812
+    ],
+    "spans": [
+      {
+        "size": 7.920000076293945,
+        "flags": 4,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Roman",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0529999732971191,
+        "descender": -0.2809999883174896,
+        "text": "C,n",
+        "origin": [
+          44.2079963684082,
+          596.0159912109375
+        ],
+        "bbox": [
+          44.2079963684082,
+          587.6762084960938,
+          55.46786117553711,
+          598.2415161132812
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Moment reduction factor for lateral torsional buckling strength calculation",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "c,",
+    "bbox": [
+      44.2079963684082,
+      625.0809326171875,
+      50.204586029052734,
+      636.6030883789062
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 4,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Roman",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0529999732971191,
+        "descender": -0.2809999883174896,
+        "text": "c,",
+        "origin": [
+          44.2079963684082,
+          634.176025390625
+        ],
+        "bbox": [
+          44.2079963684082,
+          625.0809326171875,
+          50.204586029052734,
+          636.6030883789062
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Moment amplification factor for sway frame",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "D",
+    "bbox": [
+      46.60811233520508,
+      651.8831176757812,
+      52.844242095947266,
+      662.4292602539062
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "D",
+        "origin": [
+          46.60811233520508,
+          660.09716796875
+        ],
+        "bbox": [
+          46.60811233520508,
+          651.8831176757812,
+          52.844242095947266,
+          662.4292602539062
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Overall depth/diameter of the cross- section",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "d",
+    "bbox": [
+      43.96797561645508,
+      678.0442504882812,
+      48.286624908447266,
+      688.5903930664062
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "d",
+        "origin": [
+          43.96797561645508,
+          686.25830078125
+        ],
+        "bbox": [
+          43.96797561645508,
+          678.0442504882812,
+          48.286624908447266,
+          688.5903930664062
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Depth of web, Nominal diameter",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "d,",
+    "bbox": [
+      43.96797561645508,
+      692.2048950195312,
+      50.44633102416992,
+      702.7510375976562
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "d,",
+        "origin": [
+          43.96797561645508,
+          700.4189453125
+        ],
+        "bbox": [
+          43.96797561645508,
+          692.2048950195312,
+          50.44633102416992,
+          702.7510375976562
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "left",
+    "meaning": "Twice the clear distance from the compression flange angles, plates or tongue plates to the neutral axis",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "d,",
+    "bbox": [
+      277.49749755859375,
+      64.0986099243164,
+      283.9758605957031,
+      74.6447525024414
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "d,",
+        "origin": [
+          277.49749755859375,
+          72.31268310546875
+        ],
+        "bbox": [
+          277.49749755859375,
+          64.0986099243164,
+          283.9758605957031,
+          74.6447525024414
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Diameter of a bolt/ rivet hole",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "dO",
+    "bbox": [
+      277.49749755859375,
+      77.77921295166016,
+      288.0539245605469,
+      88.32535552978516
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "dO",
+        "origin": [
+          277.49749755859375,
+          85.9932861328125
+        ],
+        "bbox": [
+          277.49749755859375,
+          77.77921295166016,
+          288.0539245605469,
+          88.32535552978516
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Nominal diameter of the pipe column or the dimensions of the column in the depth direction of the base plate",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "dP",
+    "bbox": [
+      277.49749755859375,
+      115.9408950805664,
+      287.0946044921875,
+      126.4870376586914
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "dP",
+        "origin": [
+          277.49749755859375,
+          124.15496826171875
+        ],
+        "bbox": [
+          277.49749755859375,
+          115.9408950805664,
+          287.0946044921875,
+          126.4870376586914
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Panel zone depth in the beam-column junction",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "E",
+    "bbox": [
+      277.7375183105469,
+      141.6219940185547,
+      283.0149230957031,
+      152.1681365966797
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "E",
+        "origin": [
+          277.7375183105469,
+          149.8360595703125
+        ],
+        "bbox": [
+          277.7375183105469,
+          141.6219940185547,
+          283.0149230957031,
+          152.1681365966797
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Modulus of elasticity for steel",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "E (~",
+    "bbox": [
+      277.7375183105469,
+      155.5426483154297,
+      294.11175537109375,
+      166.0887908935547
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "E",
+        "origin": [
+          277.7375183105469,
+          163.7567138671875
+        ],
+        "bbox": [
+          277.7375183105469,
+          155.5426483154297,
+          283.0149230957031,
+          166.0887908935547
+        ]
+      },
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 512,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": " ",
+        "origin": [
+          283.0149230957031,
+          163.7567138671875
+        ],
+        "bbox": [
+          283.0149230957031,
+          155.5426483154297,
+          286.617919921875,
+          166.0887908935547
+        ]
+      },
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "(~",
+        "origin": [
+          286.617919921875,
+          163.7567138671875
+        ],
+        "bbox": [
+          286.617919921875,
+          155.5426483154297,
+          294.11175537109375,
+          166.0887908935547
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Modulus of elasticity of steel at T “C",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "E (20)",
+    "bbox": [
+      277.7375183105469,
+      169.4633026123047,
+      301.25341796875,
+      180.0094451904297
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "E",
+        "origin": [
+          277.7375183105469,
+          177.6773681640625
+        ],
+        "bbox": [
+          277.7375183105469,
+          169.4633026123047,
+          283.0149230957031,
+          180.0094451904297
+        ]
+      },
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 512,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": " ",
+        "origin": [
+          283.0149230957031,
+          177.6773681640625
+        ],
+        "bbox": [
+          283.0149230957031,
+          169.4633026123047,
+          286.8579406738281,
+          180.0094451904297
+        ]
+      },
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "(20)",
+        "origin": [
+          286.8579406738281,
+          177.6773681640625
+        ],
+        "bbox": [
+          286.8579406738281,
+          169.4633026123047,
+          301.25341796875,
+          180.0094451904297
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Modulus of elasticity of steel at 20”C",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "E,",
+    "bbox": [
+      277.7375183105469,
+      183.3839569091797,
+      285.1752014160156,
+      193.9300994873047
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "E,",
+        "origin": [
+          277.7375183105469,
+          191.5980224609375
+        ],
+        "bbox": [
+          277.7375183105469,
+          183.3839569091797,
+          285.1752014160156,
+          193.9300994873047
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Modulus of elasticity of the panel material",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "F cdw",
+    "bbox": [
+      277.9775390625,
+      209.30503845214844,
+      294.58154296875,
+      222.09133911132812
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F",
+        "origin": [
+          277.9775390625,
+          217.51910400390625
+        ],
+        "bbox": [
+          277.9775390625,
+          209.30503845214844,
+          283.25494384765625,
+          219.85118103027344
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 8,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": " cdw",
+        "origin": [
+          283.25494384765625,
+          217.51910400390625
+        ],
+        "bbox": [
+          283.25494384765625,
+          210.8435821533203,
+          294.58154296875,
+          222.09133911132812
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Buckling strength of un-stiffened beam web under concentrated load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "Fd",
+    "bbox": [
+      277.9679870605469,
+      235.2419891357422,
+      287.5650939941406,
+      245.7881317138672
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "Fd",
+        "origin": [
+          277.9679870605469,
+          243.4560546875
+        ],
+        "bbox": [
+          277.9679870605469,
+          235.2419891357422,
+          287.5650939941406,
+          245.7881317138672
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Factored design load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "F.",
+    "bbox": [
+      278.2080078125,
+      249.64256286621094,
+      285.64569091796875,
+      260.1886901855469
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F.",
+        "origin": [
+          278.2080078125,
+          257.85662841796875
+        ],
+        "bbox": [
+          278.2080078125,
+          249.64256286621094,
+          285.64569091796875,
+          260.1886901855469
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Normal force",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "FO",
+    "bbox": [
+      278.2080078125,
+      264.0431213378906,
+      289.7237548828125,
+      274.5892639160156
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "FO",
+        "origin": [
+          278.2080078125,
+          272.2572021484375
+        ],
+        "bbox": [
+          278.2080078125,
+          264.0431213378906,
+          289.7237548828125,
+          274.5892639160156
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Minimum proof pretension in high strength friction grip bolts.",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "F,,,",
+    "bbox": [
+      278.2080078125,
+      290.2042541503906,
+      289.9651184082031,
+      300.7503967285156
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F,,,",
+        "origin": [
+          278.2080078125,
+          298.4183349609375
+        ],
+        "bbox": [
+          278.2080078125,
+          290.2042541503906,
+          289.9651184082031,
+          300.7503967285156
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Bearing capacity of load carrying stiffener",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "F~",
+    "bbox": [
+      277.9679870605469,
+      315.64532470703125,
+      287.86212158203125,
+      326.19146728515625
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F~",
+        "origin": [
+          277.9679870605469,
+          323.8594055175781
+        ],
+        "bbox": [
+          277.9679870605469,
+          315.64532470703125,
+          287.86212158203125,
+          326.19146728515625
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Stiffener force",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "F,,,",
+    "bbox": [
+      278.2080078125,
+      329.56597900390625,
+      289.9651184082031,
+      340.11212158203125
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F,,,",
+        "origin": [
+          278.2080078125,
+          337.7800598144531
+        ],
+        "bbox": [
+          278.2080078125,
+          329.56597900390625,
+          289.9651184082031,
+          340.11212158203125
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Stiffener buckling resistance",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "Flest",
+    "bbox": [
+      277.9679870605469,
+      343.966552734375,
+      296.2057800292969,
+      356.67279052734375
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "Flest",
+        "origin": [
+          277.9679870605469,
+          352.1806335449219
+        ],
+        "bbox": [
+          277.9679870605469,
+          343.966552734375,
+          296.2057800292969,
+          356.67279052734375
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Test load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "F,~,,,,",
+    "bbox": [
+      277.9679870605469,
+      357.88720703125,
+      298.61981201171875,
+      368.433349609375
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F,~,,,,",
+        "origin": [
+          277.9679870605469,
+          366.1012878417969
+        ],
+        "bbox": [
+          277.9679870605469,
+          357.88720703125,
+          298.61981201171875,
+          368.433349609375
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Load for acceptance test",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "F test,Mm",
+    "bbox": [
+      278.2080078125,
+      372.0478820800781,
+      306.2579040527344,
+      384.57135009765625
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F",
+        "origin": [
+          278.2080078125,
+          380.261962890625
+        ],
+        "bbox": [
+          278.2080078125,
+          372.0478820800781,
+          283.48541259765625,
+          382.5940246582031
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 8,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": " test,Mm",
+        "origin": [
+          283.48541259765625,
+          380.261962890625
+        ],
+        "bbox": [
+          283.48541259765625,
+          373.5864562988281,
+          306.2579040527344,
+          384.57135009765625
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Minimum test load from the test to failure",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "Ftesl,R",
+    "bbox": [
+      278.2079772949219,
+      397.9619445800781,
+      299.751953125,
+      410.7313537597656
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F",
+        "origin": [
+          278.2079772949219,
+          406.176025390625
+        ],
+        "bbox": [
+          278.2079772949219,
+          397.9619445800781,
+          283.4853820800781,
+          408.5080871582031
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 8,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": "tesl,R",
+        "origin": [
+          284.2079772949219,
+          408.8160400390625
+        ],
+        "bbox": [
+          284.2079772949219,
+          402.1405334472656,
+          299.751953125,
+          410.7313537597656
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Test load resistance",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "Ftest,s",
+    "bbox": [
+      278.447998046875,
+      412.1219482421875,
+      298.5692443847656,
+      424.9615478515625
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F",
+        "origin": [
+          278.447998046875,
+          420.3360290527344
+        ],
+        "bbox": [
+          278.447998046875,
+          412.1219482421875,
+          283.72540283203125,
+          422.6680908203125
+        ]
+      },
+      {
+        "size": 7.920000076293945,
+        "flags": 4,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Roman",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0529999732971191,
+        "descender": -0.2809999883174896,
+        "text": "test,s",
+        "origin": [
+          284.447998046875,
+          422.73602294921875
+        ],
+        "bbox": [
+          284.447998046875,
+          414.3962707519531,
+          298.5692443847656,
+          424.9615478515625
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Strength test load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "FW",
+    "bbox": [
+      278.2079772949219,
+      425.80194091796875,
+      290.6829528808594,
+      436.34808349609375
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "FW",
+        "origin": [
+          278.2079772949219,
+          434.0160217285156
+        ],
+        "bbox": [
+          278.2079772949219,
+          425.80194091796875,
+          290.6829528808594,
+          436.34808349609375
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Design capacity of the web in bearing",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "F,",
+    "bbox": [
+      278.2079772949219,
+      439.72259521484375,
+      285.6456604003906,
+      450.26873779296875
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "F,",
+        "origin": [
+          278.2079772949219,
+          447.9366760253906
+        ],
+        "bbox": [
+          278.2079772949219,
+          439.72259521484375,
+          285.6456604003906,
+          450.26873779296875
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "External load, force or reaction",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "FXd",
+    "bbox": [
+      278.2079772949219,
+      453.8832702636719,
+      293.0838928222656,
+      464.4294128417969
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "FXd",
+        "origin": [
+          278.2079772949219,
+          462.09735107421875
+        ],
+        "bbox": [
+          278.2079772949219,
+          453.8832702636719,
+          293.0838928222656,
+          464.4294128417969
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Buckling resistance of load carrying web stiffener",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "f",
+    "bbox": [
+      276.5279235839844,
+      481.9644775390625,
+      278.9291076660156,
+      492.5106201171875
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f",
+        "origin": [
+          276.5279235839844,
+          490.1785583496094
+        ],
+        "bbox": [
+          276.5279235839844,
+          481.9644775390625,
+          278.9291076660156,
+          492.5106201171875
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Actual normal stress range for the detail category",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "f,",
+    "bbox": [
+      276.5279235839844,
+      508.3656311035156,
+      281.0877685546875,
+      518.9118041992188
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f,",
+        "origin": [
+          276.5279235839844,
+          516.5797119140625
+        ],
+        "bbox": [
+          276.5279235839844,
+          508.3656311035156,
+          281.0877685546875,
+          518.9118041992188
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Frequency for a simply supported one way system",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "f,",
+    "bbox": [
+      276.5279235839844,
+      534.5267944335938,
+      281.0877685546875,
+      545.0729370117188
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f,",
+        "origin": [
+          276.5279235839844,
+          542.7408447265625
+        ],
+        "bbox": [
+          276.5279235839844,
+          534.5267944335938,
+          281.0877685546875,
+          545.0729370117188
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Frequency of floor supported on steel girder perpendicular to the joist",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "L",
+    "bbox": [
+      276.5279235839844,
+      560.6879272460938,
+      281.33026123046875,
+      571.2340698242188
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "L",
+        "origin": [
+          276.5279235839844,
+          568.9019775390625
+        ],
+        "bbox": [
+          276.5279235839844,
+          560.6879272460938,
+          281.33026123046875,
+          571.2340698242188
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Calculated stress due to axial force at service load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "k.",
+    "bbox": [
+      276.5279235839844,
+      586.6090698242188,
+      282.5245056152344,
+      597.1552124023438
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "k.",
+        "origin": [
+          276.5279235839844,
+          594.8231201171875
+        ],
+        "bbox": [
+          276.5279235839844,
+          586.6090698242188,
+          282.5245056152344,
+          597.1552124023438
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Permissible bending stress in compression at service load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "J,c",
+    "bbox": [
+      276.7679443359375,
+      612.5301513671875,
+      286.6031494140625,
+      623.0762939453125
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "J,c",
+        "origin": [
+          276.7679443359375,
+          620.7442016601562
+        ],
+        "bbox": [
+          276.7679443359375,
+          612.5301513671875,
+          286.6031494140625,
+          623.0762939453125
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Permissible compressive stress at service load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "“&(",
+    "bbox": [
+      276.5279235839844,
+      639.1713256835938,
+      290.9255065917969,
+      649.7174682617188
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "“&(",
+        "origin": [
+          276.5279235839844,
+          647.3853759765625
+        ],
+        "bbox": [
+          276.5279235839844,
+          639.1713256835938,
+          290.9255065917969,
+          649.7174682617188
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Permissible bending stress in tension at service load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": ".fipb",
+    "bbox": [
+      276.7679443359375,
+      664.6123657226562,
+      292.3653869628906,
+      675.1585083007812
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": ".fipb",
+        "origin": [
+          276.7679443359375,
+          672.826416015625
+        ],
+        "bbox": [
+          276.7679443359375,
+          664.6123657226562,
+          292.3653869628906,
+          675.1585083007812
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Permissible bearing stress of the bolt at service load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "J,,,",
+    "bbox": [
+      276.7679443359375,
+      691.0135498046875,
+      287.08465576171875,
+      701.5596923828125
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "J,,,",
+        "origin": [
+          276.7679443359375,
+          699.2276000976562
+        ],
+        "bbox": [
+          276.7679443359375,
+          691.0135498046875,
+          287.08465576171875,
+          701.5596923828125
+        ]
+      }
+    ],
+    "page": 20,
+    "column": "right",
+    "meaning": "Permissible stress of the bolt in shear at service load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  }
+]

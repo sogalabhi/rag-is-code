@@ -1,0 +1,1365 @@
+[
+  {
+    "raw_text": "f“",
+    "bbox": [
+      268.6885986328125,
+      55.283607482910156,
+      275.88970947265625,
+      65.82975006103516
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f“",
+        "origin": [
+          268.6885986328125,
+          63.4976806640625
+        ],
+        "bbox": [
+          268.6885986328125,
+          55.283607482910156,
+          275.88970947265625,
+          65.82975006103516
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Applied shear stress in the panel designed utilizing tension field action",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "f.W",
+    "bbox": [
+      268.9286193847656,
+      80.9646987915039,
+      278.28485107421875,
+      91.99088287353516
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f.W",
+        "origin": [
+          270.1286315917969,
+          89.17877197265625
+        ],
+        "bbox": [
+          268.9286193847656,
+          80.9646987915039,
+          278.28485107421875,
+          91.99088287353516
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Actual stress of weld at service load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "fwj",
+    "bbox": [
+      269.16864013671875,
+      95.1253433227539,
+      279.7284240722656,
+      105.6714859008789
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "fwj",
+        "origin": [
+          269.16864013671875,
+          103.33941650390625
+        ],
+        "bbox": [
+          269.16864013671875,
+          95.1253433227539,
+          279.7284240722656,
+          105.6714859008789
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Design stress of weld at service load",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "f w“",
+    "bbox": [
+      269.4086608886719,
+      109.0459976196289,
+      281.9056396484375,
+      119.65127563476562
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f",
+        "origin": [
+          269.4086608886719,
+          117.26007080078125
+        ],
+        "bbox": [
+          269.4086608886719,
+          109.0459976196289,
+          271.8098449707031,
+          119.5921401977539
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 520,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": " ",
+        "origin": [
+          271.8098449707031,
+          117.26007080078125
+        ],
+        "bbox": [
+          271.8098449707031,
+          110.58455657958984,
+          273.9599914550781,
+          119.65127563476562
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 8,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": "w“",
+        "origin": [
+          273.9599914550781,
+          117.7359619140625
+        ],
+        "bbox": [
+          273.9599914550781,
+          111.0604476928711,
+          281.9056396484375,
+          119.65127563476562
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Nominal strength of fillet weld",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "fx",
+    "bbox": [
+      269.3999938964844,
+      122.9618911743164,
+      275.6374816894531,
+      133.50804138183594
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "fx",
+        "origin": [
+          269.3999938964844,
+          131.17596435546875
+        ],
+        "bbox": [
+          269.3999938964844,
+          122.9618911743164,
+          275.6374816894531,
+          133.50804138183594
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Maximum longitudinal stress under combined axial force and bending",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "&",
+    "bbox": [
+      269.3999938964844,
+      149.12303161621094,
+      276.11981201171875,
+      159.66917419433594
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "&",
+        "origin": [
+          269.3999938964844,
+          157.33709716796875
+        ],
+        "bbox": [
+          269.3999938964844,
+          149.12303161621094,
+          276.11981201171875,
+          159.66917419433594
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Characteristic yield stress",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "fy(n",
+    "bbox": [
+      269.6400146484375,
+      163.04368591308594,
+      283.0758972167969,
+      173.58982849121094
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "fy(n",
+        "origin": [
+          269.6400146484375,
+          171.25775146484375
+        ],
+        "bbox": [
+          269.6400146484375,
+          163.04368591308594,
+          283.0758972167969,
+          173.58982849121094
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Yield stress of steel at T ‘C",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "fy(20)",
+    "bbox": [
+      269.8800354003906,
+      175.28416442871094,
+      290.5145568847656,
+      185.83030700683594
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "fy(20)",
+        "origin": [
+          269.8800354003906,
+          183.49822998046875
+        ],
+        "bbox": [
+          269.8800354003906,
+          175.28416442871094,
+          290.5145568847656,
+          185.83030700683594
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Yield stress of steel at 20°C",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "f,,",
+    "bbox": [
+      269.8800354003906,
+      190.88487243652344,
+      276.5990905761719,
+      201.43101501464844
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f,,",
+        "origin": [
+          269.8800354003906,
+          199.09893798828125
+        ],
+        "bbox": [
+          269.8800354003906,
+          190.88487243652344,
+          276.5990905761719,
+          201.43101501464844
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Characteristic yield stress of bolt",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "f,,",
+    "bbox": [
+      269.8800354003906,
+      204.80552673339844,
+      276.5990905761719,
+      215.35166931152344
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f,,",
+        "origin": [
+          269.8800354003906,
+          213.01959228515625
+        ],
+        "bbox": [
+          269.8800354003906,
+          204.80552673339844,
+          276.5990905761719,
+          215.35166931152344
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Characteristic yield stress of flange",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "f ym",
+    "bbox": [
+      269.8800354003906,
+      218.96617126464844,
+      283.38653564453125,
+      229.57131958007812
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f",
+        "origin": [
+          269.8800354003906,
+          227.18023681640625
+        ],
+        "bbox": [
+          269.8800354003906,
+          218.96617126464844,
+          272.2812194824219,
+          229.51231384277344
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 520,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": " ",
+        "origin": [
+          272.2812194824219,
+          227.18023681640625
+        ],
+        "bbox": [
+          272.2812194824219,
+          220.5047149658203,
+          274.44000244140625,
+          229.57131958007812
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 8,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": "ym",
+        "origin": [
+          274.44000244140625,
+          227.656005859375
+        ],
+        "bbox": [
+          274.44000244140625,
+          220.98048400878906,
+          283.38653564453125,
+          229.57131958007812
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Average yield stress as obtained from test",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "f,,",
+    "bbox": [
+      270.3599853515625,
+      244.88194274902344,
+      277.07904052734375,
+      255.42808532714844
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f,,",
+        "origin": [
+          270.3599853515625,
+          253.09600830078125
+        ],
+        "bbox": [
+          270.3599853515625,
+          244.88194274902344,
+          277.07904052734375,
+          255.42808532714844
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Characteristic yield stress of connected plate",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "f,,",
+    "bbox": [
+      270.3599853515625,
+      271.2831115722656,
+      277.07904052734375,
+      281.8292541503906
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f,,",
+        "origin": [
+          270.3599853515625,
+          279.4971923828125
+        ],
+        "bbox": [
+          270.3599853515625,
+          271.2831115722656,
+          277.07904052734375,
+          281.8292541503906
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Characteristic yield stress of stiffener material",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "f Yw",
+    "bbox": [
+      270.6000061035156,
+      297.4442443847656,
+      284.1065368652344,
+      309.25128173828125
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "f",
+        "origin": [
+          270.6000061035156,
+          305.6583251953125
+        ],
+        "bbox": [
+          270.6000061035156,
+          297.4442443847656,
+          273.0011901855469,
+          307.9903869628906
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 520,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": " ",
+        "origin": [
+          273.0011901855469,
+          305.6583251953125
+        ],
+        "bbox": [
+          273.0011901855469,
+          298.9828186035156,
+          275.1600036621094,
+          309.25128173828125
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 8,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": "Yw",
+        "origin": [
+          275.1600036621094,
+          307.3359680175781
+        ],
+        "bbox": [
+          275.1600036621094,
+          300.66046142578125,
+          284.1065368652344,
+          309.25128173828125
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Characteristic yield stress of the web material",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "G",
+    "bbox": [
+      272.760009765625,
+      320.0809020996094,
+      278.99615478515625,
+      331.6030578613281
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 4,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Roman",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0529999732971191,
+        "descender": -0.2809999883174896,
+        "text": "G",
+        "origin": [
+          272.760009765625,
+          329.17596435546875
+        ],
+        "bbox": [
+          272.760009765625,
+          320.0809020996094,
+          278.99615478515625,
+          331.6030578613281
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Modulus of rigidity for steel",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "g",
+    "bbox": [
+      272.27996826171875,
+      335.9216003417969,
+      276.5986328125,
+      347.4437561035156
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 4,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Roman",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0529999732971191,
+        "descender": -0.2809999883174896,
+        "text": "g",
+        "origin": [
+          272.27996826171875,
+          345.01666259765625
+        ],
+        "bbox": [
+          272.27996826171875,
+          335.9216003417969,
+          276.5986328125,
+          347.4437561035156
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Gauge length between centre of the holes perpendicular to the load direction, acceleration due to gravity",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "h",
+    "bbox": [
+      272.5199890136719,
+      373.2841491699219,
+      276.8386535644531,
+      383.8302917480469
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "h",
+        "origin": [
+          272.5199890136719,
+          381.49822998046875
+        ],
+        "bbox": [
+          272.5199890136719,
+          373.2841491699219,
+          276.8386535644531,
+          383.8302917480469
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Depth of the section",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "IIb",
+    "bbox": [
+      272.760009765625,
+      387.2048034667969,
+      282.835693359375,
+      397.7509460449219
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "IIb",
+        "origin": [
+          272.760009765625,
+          395.41888427734375
+        ],
+        "bbox": [
+          272.760009765625,
+          387.2048034667969,
+          282.835693359375,
+          397.7509460449219
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Total height from the base to the floor level concerned",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "hC",
+    "bbox": [
+      273.0000305175781,
+      413.3659362792969,
+      283.0789794921875,
+      423.9120788574219
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "hC",
+        "origin": [
+          273.0000305175781,
+          421.58001708984375
+        ],
+        "bbox": [
+          273.0000305175781,
+          413.3659362792969,
+          283.0789794921875,
+          423.9120788574219
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Height of the column",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "he",
+    "bbox": [
+      273.0000305175781,
+      427.2865905761719,
+      281.1560363769531,
+      437.8327331542969
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "he",
+        "origin": [
+          273.0000305175781,
+          435.50067138671875
+        ],
+        "bbox": [
+          273.0000305175781,
+          427.2865905761719,
+          281.1560363769531,
+          437.8327331542969
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Effective thickness",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "h,",
+    "bbox": [
+      273.0000305175781,
+      441.2072448730469,
+      279.4783935546875,
+      451.7533874511719
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "h,",
+        "origin": [
+          273.0000305175781,
+          449.42132568359375
+        ],
+        "bbox": [
+          273.0000305175781,
+          441.2072448730469,
+          279.4783935546875,
+          451.7533874511719
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Cenre-to-centre distance of flanges",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "hi",
+    "bbox": [
+      273.24005126953125,
+      455.367919921875,
+      279.9593200683594,
+      465.9140625
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "hi",
+        "origin": [
+          273.24005126953125,
+          463.5820007324219
+        ],
+        "bbox": [
+          273.24005126953125,
+          455.367919921875,
+          279.9593200683594,
+          465.9140625
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Thickness of fire protection material",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "h,",
+    "bbox": [
+      273.24005126953125,
+      469.28857421875,
+      279.7184143066406,
+      479.834716796875
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "h,",
+        "origin": [
+          273.24005126953125,
+          477.5026550292969
+        ],
+        "bbox": [
+          273.24005126953125,
+          469.28857421875,
+          279.7184143066406,
+          479.834716796875
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Height of the lip",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "h,",
+    "bbox": [
+      273.24005126953125,
+      483.209228515625,
+      279.7184143066406,
+      493.75537109375
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "h,",
+        "origin": [
+          273.24005126953125,
+          491.4233093261719
+        ],
+        "bbox": [
+          273.24005126953125,
+          483.209228515625,
+          279.7184143066406,
+          493.75537109375
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Storey height",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "h,",
+    "bbox": [
+      273.4800720214844,
+      497.3699035644531,
+      279.95843505859375,
+      507.9160461425781
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "h,",
+        "origin": [
+          273.4800720214844,
+          505.583984375
+        ],
+        "bbox": [
+          273.4800720214844,
+          497.3699035644531,
+          279.95843505859375,
+          507.9160461425781
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Distance between shear centre of the two flanges of a cross-section",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "I",
+    "bbox": [
+      273.24005126953125,
+      523.5310668945312,
+      276.11627197265625,
+      534.0772094726562
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "I",
+        "origin": [
+          273.24005126953125,
+          531.7451171875
+        ],
+        "bbox": [
+          273.24005126953125,
+          523.5310668945312,
+          276.11627197265625,
+          534.0772094726562
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Moment of inertia of the member about an axis perpendicular to the plane of the frame",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "Ifc",
+    "bbox": [
+      273.4800720214844,
+      561.9328002929688,
+      282.6124572753906,
+      574.4512939453125
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "I",
+        "origin": [
+          273.4800720214844,
+          570.1468505859375
+        ],
+        "bbox": [
+          273.4800720214844,
+          561.9328002929688,
+          276.3562927246094,
+          572.4789428710938
+        ]
+      },
+      {
+        "size": 6.238800048828125,
+        "flags": 16,
+        "bidi": 0,
+        "char_flags": 8,
+        "font": "Helvetica-Bold",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 1.0700000524520874,
+        "descender": -0.3070000112056732,
+        "text": "fc",
+        "origin": [
+          277.0799865722656,
+          572.5360107421875
+        ],
+        "bbox": [
+          277.0799865722656,
+          565.8604736328125,
+          282.6124572753906,
+          574.4512939453125
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Moment of inertia of the compression flange of the beam about the axis parallel to the web",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "If,",
+    "bbox": [
+      273.7200012207031,
+      599.8419189453125,
+      281.1580810546875,
+      610.3880615234375
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "If,",
+        "origin": [
+          273.7200012207031,
+          608.0559692382812
+        ],
+        "bbox": [
+          273.7200012207031,
+          599.8419189453125,
+          281.1580810546875,
+          610.3880615234375
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Moment of inertia of the tension flange of the beam about minor axis",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "I,",
+    "bbox": [
+      273.7200012207031,
+      626.0030517578125,
+      278.7572937011719,
+      636.5491943359375
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "I,",
+        "origin": [
+          273.7200012207031,
+          634.2171020507812
+        ],
+        "bbox": [
+          273.7200012207031,
+          626.0030517578125,
+          278.7572937011719,
+          636.5491943359375
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Moment of inertia of a pair of stiffener about the centre of the web, or a single stiffener about the face of the web",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "1,",
+    "bbox": [
+      274.2000427246094,
+      676.1652221679688,
+      280.67840576171875,
+      686.7113647460938
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "1,",
+        "origin": [
+          274.2000427246094,
+          684.3792724609375
+        ],
+        "bbox": [
+          274.2000427246094,
+          676.1652221679688,
+          280.67840576171875,
+          686.7113647460938
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Second moment of inertia",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  },
+  {
+    "raw_text": "I,.",
+    "bbox": [
+      273.96002197265625,
+      690.3258666992188,
+      281.15740966796875,
+      700.8720092773438
+    ],
+    "spans": [
+      {
+        "size": 8.637299537658691,
+        "flags": 6,
+        "bidi": 0,
+        "char_flags": 0,
+        "font": "Times-Italic",
+        "color": 0,
+        "alpha": 0,
+        "ascender": 0.9509999752044678,
+        "descender": -0.27000001072883606,
+        "text": "I,.",
+        "origin": [
+          273.96002197265625,
+          698.5399169921875
+        ],
+        "bbox": [
+          273.96002197265625,
+          690.3258666992188,
+          281.15740966796875,
+          700.8720092773438
+        ]
+      }
+    ],
+    "page": 21,
+    "column": "right",
+    "meaning": "Second moment of inertia of the stiffener about the face of the element perpendicular to the web",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf",
+    "symbol_status": "needs_visual_verification"
+  }
+]

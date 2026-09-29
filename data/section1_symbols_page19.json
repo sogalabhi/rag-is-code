@@ -1,0 +1,236 @@
+[
+  {
+    "raw_text": "A",
+    "bbox": [
+      276.1798095703125,
+      294.4534606933594,
+      281.45721435546875,
+      304.9996032714844
+    ],
+    "page": 19,
+    "meaning": "Area of cross-section",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "AC",
+    "bbox": [
+      276.4198303222656,
+      308.6141357421875,
+      287.4580078125,
+      319.1602783203125
+    ],
+    "page": 19,
+    "meaning": "Area at root of threads",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A.",
+    "bbox": [
+      276.4198303222656,
+      321.8147277832031,
+      283.8575134277344,
+      332.3608703613281
+    ],
+    "page": 19,
+    "meaning": "Effective cross-sectional area",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "AC,",
+    "bbox": [
+      276.1798095703125,
+      335.97540283203125,
+      289.3774108886719,
+      346.52154541015625
+    ],
+    "page": 19,
+    "meaning": "Reduced effective flange area",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,",
+    "bbox": [
+      276.4198303222656,
+      350.1360778808594,
+      283.8575134277344,
+      360.6822204589844
+    ],
+    "page": 19,
+    "meaning": "Total flange area",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,",
+    "bbox": [
+      276.65985107421875,
+      364.0567321777344,
+      284.0975341796875,
+      374.6028747558594
+    ],
+    "page": 19,
+    "meaning": "Gross cross-sectional area",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,,",
+    "bbox": [
+      276.65985107421875,
+      378.2174072265625,
+      286.2574462890625,
+      388.7635498046875
+    ],
+    "page": 19,
+    "meaning": "Gross cross-sectional area of flange",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,O",
+    "bbox": [
+      276.65985107421875,
+      392.1380615234375,
+      290.3357849121094,
+      402.6842041015625
+    ],
+    "page": 19,
+    "meaning": "Gross cross-sectional area of outstanding (not connected) leg of a member",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,",
+    "bbox": [
+      277.139892578125,
+      430.05975341796875,
+      284.57757568359375,
+      440.60589599609375
+    ],
+    "page": 19,
+    "meaning": "Net area of the total cross-section",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "An,",
+    "bbox": [
+      277.3799133300781,
+      443.3394470214844,
+      290.0963134765625,
+      454.8616027832031
+    ],
+    "page": 19,
+    "meaning": "Net tensile cross-sectional area of bolt",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,,C",
+    "bbox": [
+      277.139892578125,
+      458.381103515625,
+      292.4970397949219,
+      468.92724609375
+    ],
+    "page": 19,
+    "meaning": "Net cross-sectional area of the connected leg of a member",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "An,",
+    "bbox": [
+      277.139892578125,
+      484.3022155761719,
+      288.8968200683594,
+      494.8483581542969
+    ],
+    "page": 19,
+    "meaning": "Net cross-sectional area of each flange",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,O",
+    "bbox": [
+      277.3799133300781,
+      510.7033996582031,
+      291.05584716796875,
+      521.2495727539062
+    ],
+    "page": 19,
+    "meaning": "Net cross-sectional area of outstanding (not connected) leg of a member",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,,",
+    "bbox": [
+      277.61993408203125,
+      548.6250610351562,
+      287.217529296875,
+      559.1712036132812
+    ],
+    "page": 19,
+    "meaning": "Nominal bearing area of bolt on any plate",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,",
+    "bbox": [
+      277.61993408203125,
+      574.7861938476562,
+      285.0576171875,
+      585.3323364257812
+    ],
+    "page": 19,
+    "meaning": "Cross-sectional area of a bearing (load carrying) stiffener in contact with the flange",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,",
+    "bbox": [
+      277.8599548339844,
+      612.06689453125,
+      286.2568664550781,
+      623.5890502929688
+    ],
+    "page": 19,
+    "meaning": "Tensile stress area",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "A,,",
+    "bbox": [
+      277.61993408203125,
+      626.8685913085938,
+      287.217529296875,
+      637.4147338867188
+    ],
+    "page": 19,
+    "meaning": "Gross cross-sectional area of a bolt at the shank",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  },
+  {
+    "raw_text": "At,",
+    "bbox": [
+      278.0999755859375,
+      652.148681640625,
+      288.8975524902344,
+      663.6708374023438
+    ],
+    "page": 19,
+    "meaning": "Gross sectional area in tension from the centre of the hole to the toe of the angle section/channel section, etc (see 6.4) perpendicular to the line of force",
+    "latex": null,
+    "source_pdf": "is.800.2007.pdf"
+  }
+]
