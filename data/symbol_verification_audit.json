@@ -1,0 +1,92 @@
+{
+  "records": 340,
+  "unique_ids": 340,
+  "records_per_page": {
+    "19": 18,
+    "20": 59,
+    "21": 63,
+    "22": 50,
+    "23": 61,
+    "24": 62,
+    "25": 27
+  },
+  "missing_raw_symbol_texts": 33,
+  "recovered_missing_symbol_texts": 33,
+  "verified_notation_records": 340,
+  "pending_notation_records": 0,
+  "verified_individual_symbols": 345,
+  "multi_symbol_records": 5,
+  "missing_meanings": 0,
+  "visually_corrected_meanings": 13,
+  "other_meanings_require_review": 327,
+  "pending_notation": {
+    "symbols-p23-left-18": {
+      "note": "Visually verified as P_s.",
+      "alternatives": [
+        "P_s"
+      ],
+      "region": [
+        22,
+        426,
+        61,
+        444
+      ]
+    },
+    "symbols-p23-right-29": {
+      "note": "Visually verified as T_l.",
+      "alternatives": [
+        "T_l",
+        "T_1"
+      ],
+      "region": [
+        255,
+        663,
+        294,
+        682
+      ]
+    },
+    "symbols-p24-left-14": {
+      "note": "Visually verified as V_{bf}.",
+      "alternatives": [
+        "V_{bf}",
+        "V_{hf}"
+      ],
+      "region": [
+        43,
+        250,
+        80,
+        270
+      ]
+    },
+    "symbols-p24-left-36": {
+      "note": "Visually verified as Z_e.",
+      "alternatives": [
+        "Z_e",
+        "Z'_e"
+      ],
+      "region": [
+        43,
+        680,
+        80,
+        698
+      ]
+    }
+  },
+  "pending_equations": {
+    "symbols-p25-left-05": [
+      90,
+      136,
+      249,
+      154
+    ],
+    "symbols-p25-left-06": [
+      90,
+      151,
+      249,
+      214
+    ]
+  },
+  "raw_dataset_sha256": "49906aae41f3cf5b981adc0dcfd387a5c9060a996315edce8230c6f7dc05fc7f",
+  "raw_dataset_preserved": true,
+  "review_scope": "Symbol notation; only explicit meaning corrections are verified."
+}

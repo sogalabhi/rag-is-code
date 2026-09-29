@@ -1,0 +1,112 @@
+{
+  "symbols-p19-right-01": {
+    "latex": "A",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-02": {
+    "latex": "A_c",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-03": {
+    "latex": "A_e",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-04": {
+    "latex": "A_{ef}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-05": {
+    "latex": "A_f",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-06": {
+    "latex": "A_g",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-07": {
+    "latex": "A_{gf}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-08": {
+    "latex": "A_{go}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-09": {
+    "latex": "A_n",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-10": {
+    "latex": "A_{nb}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-11": {
+    "latex": "A_{nc}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-12": {
+    "latex": "A_{nf}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-13": {
+    "latex": "A_{no}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-14": {
+    "latex": "A_{pb}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-15": {
+    "latex": "A_q",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-16": {
+    "latex": "A_s",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-17": {
+    "latex": "A_{sb}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p19-right-18": {
+    "latex": "A_{tg}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p23-left-18": {
+    "latex": "P_s",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p23-right-29": {
+    "latex": "T_l",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p24-left-14": {
+    "latex": "V_{bf}",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  },
+  "symbols-p24-left-36": {
+    "latex": "Z_e",
+    "verification_method": "visual_pdf",
+    "status": "verified"
+  }
+}

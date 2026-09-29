@@ -1,0 +1,194 @@
+{
+  "source_pdf": "is.800.2007.pdf",
+  "scope": "Section 1.4, PDF pages 22-25 only",
+  "all_notation_requires_verification": true,
+  "summary": [
+    {
+      "page": 22,
+      "column": "left",
+      "records": 22,
+      "missing_symbols": 0,
+      "missing_meanings": 0
+    },
+    {
+      "page": 22,
+      "column": "right",
+      "records": 28,
+      "missing_symbols": 0,
+      "missing_meanings": 0
+    },
+    {
+      "page": 23,
+      "column": "left",
+      "records": 30,
+      "missing_symbols": 0,
+      "missing_meanings": 0
+    },
+    {
+      "page": 23,
+      "column": "right",
+      "records": 31,
+      "missing_symbols": 0,
+      "missing_meanings": 0
+    },
+    {
+      "page": 24,
+      "column": "left",
+      "records": 37,
+      "missing_symbols": 0,
+      "missing_meanings": 0
+    },
+    {
+      "page": 24,
+      "column": "right",
+      "records": 25,
+      "missing_symbols": 0,
+      "missing_meanings": 0
+    },
+    {
+      "page": 25,
+      "column": "left",
+      "records": 27,
+      "missing_symbols": 1,
+      "missing_meanings": 0
+    }
+  ],
+  "unassigned_symbol_spans": [],
+  "flagged_records": [
+    {
+      "record_id": "symbols-p22-left-12",
+      "raw_text": "(1——KLr0",
+      "meaning": "Actual maximum effective slenderness ratio of the laced column",
+      "flags": [
+        "stacked_fraction_symbol"
+      ]
+    },
+    {
+      "record_id": "symbols-p22-left-13",
+      "raw_text": "KL\n(“-)r<",
+      "meaning": "Effective slenderness ratio of the laced column accounting for shear deformation",
+      "flags": [
+        "stacked_fraction_symbol"
+      ]
+    },
+    {
+      "record_id": "symbols-p22-left-16",
+      "raw_text": "k—",
+      "meaning": "Regression coefficient",
+      "flags": [
+        "separator_attached_to_raw_symbol"
+      ]
+    },
+    {
+      "record_id": "symbols-p22-left-18",
+      "raw_text": "L—",
+      "meaning": "Actual length, unsupported length, Length centre-to-centre distance of the intersecting members, Cantilever length",
+      "flags": [
+        "separator_attached_to_raw_symbol"
+      ]
+    },
+    {
+      "record_id": "symbols-p22-right-19",
+      "raw_text": "M,~Y,M“~Z—",
+      "meaning": "Design bending strength under combined axial force and the respective uniaxial moment acting alone",
+      "flags": [
+        "separator_attached_to_raw_symbol"
+      ]
+    },
+    {
+      "record_id": "symbols-p23-left-14",
+      "raw_text": "P,,, Pdz—",
+      "meaning": "Design compression strength as governed by flexural buckling about the respective axis",
+      "flags": [
+        "separator_attached_to_raw_symbol"
+      ]
+    },
+    {
+      "record_id": "symbols-p24-left-05",
+      "raw_text": "$",
+      "meaning": "Thickness of flange",
+      "flags": [
+        "symbol_text_only_punctuation"
+      ]
+    },
+    {
+      "record_id": "symbols-p24-left-06",
+      "raw_text": "$",
+      "meaning": "Thickness of plate",
+      "flags": [
+        "symbol_text_only_punctuation"
+      ]
+    },
+    {
+      "record_id": "symbols-p24-left-12",
+      "raw_text": ";",
+      "meaning": "Factored applied shear force",
+      "flags": [
+        "symbol_text_only_punctuation"
+      ]
+    },
+    {
+      "record_id": "symbols-p24-left-37",
+      "raw_text": "z,,",
+      "meaning": "Elastic section modulus of the member with respect to extreme compression fibre",
+      "flags": [
+        "cross_column_definition"
+      ]
+    },
+    {
+      "record_id": "symbols-p24-right-06",
+      "raw_text": "ct—",
+      "meaning": "Imperfection factor for buckling strength in columns and beams",
+      "flags": [
+        "separator_attached_to_raw_symbol"
+      ]
+    },
+    {
+      "record_id": "symbols-p24-right-18",
+      "raw_text": "$",
+      "meaning": "Inclination of the tension field stress in web",
+      "flags": [
+        "symbol_text_only_punctuation"
+      ]
+    },
+    {
+      "record_id": "symbols-p25-left-05",
+      "raw_text": "&",
+      "meaning": "Yield stress ratio (250 /~,) ‘n",
+      "flags": [
+        "symbol_text_only_punctuation",
+        "equation_in_definition"
+      ]
+    },
+    {
+      "record_id": "symbols-p25-left-06",
+      "raw_text": "A",
+      "meaning": "Non-dimensional slenderness ratio = @ii7FE. a = w",
+      "flags": [
+        "equation_in_definition"
+      ]
+    },
+    {
+      "record_id": "symbols-p25-left-08",
+      "raw_text": null,
+      "meaning": "Equivalent slenderness ratio",
+      "flags": [
+        "missing_symbol_text"
+      ]
+    }
+  ],
+  "section_notes": [
+    {
+      "section": "1.4",
+      "page": 25,
+      "column": "left",
+      "raw_text": "NOTE — The subscripts y, : denote the y-y and Z-Zaxes of the section, respectively. For symmetrical sections, y-y denotes the minor principal axis whilst z-z denotes the major principal axis (see 1.8).",
+      "region": [
+        29.0,
+        629.0,
+        250.0,
+        674.0
+      ]
+    }
+  ]
+}

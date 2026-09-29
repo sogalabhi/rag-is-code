@@ -1,0 +1,4100 @@
+{
+  "symbols-p19-right-01": {
+    "latex": "A",
+    "latex_symbols": [
+      "A"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Area of cross-section"
+  },
+  "symbols-p19-right-02": {
+    "latex": "A_c",
+    "latex_symbols": [
+      "A_c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Area at root of threads"
+  },
+  "symbols-p19-right-03": {
+    "latex": "A_e",
+    "latex_symbols": [
+      "A_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Effective cross-sectional area"
+  },
+  "symbols-p19-right-04": {
+    "latex": "A_{ef}",
+    "latex_symbols": [
+      "A_{ef}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Reduced effective flange area"
+  },
+  "symbols-p19-right-05": {
+    "latex": "A_f",
+    "latex_symbols": [
+      "A_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Total flange area"
+  },
+  "symbols-p19-right-06": {
+    "latex": "A_g",
+    "latex_symbols": [
+      "A_g"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Gross cross-sectional area"
+  },
+  "symbols-p19-right-07": {
+    "latex": "A_{gf}",
+    "latex_symbols": [
+      "A_{gf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Gross cross-sectional area of flange"
+  },
+  "symbols-p19-right-08": {
+    "latex": "A_{go}",
+    "latex_symbols": [
+      "A_{go}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Gross cross-sectional area of outstanding (not connected) leg of a member"
+  },
+  "symbols-p19-right-09": {
+    "latex": "A_n",
+    "latex_symbols": [
+      "A_n"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Net area of the total cross-section"
+  },
+  "symbols-p19-right-10": {
+    "latex": "A_{nb}",
+    "latex_symbols": [
+      "A_{nb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Net tensile cross-sectional area of bolt"
+  },
+  "symbols-p19-right-11": {
+    "latex": "A_{nc}",
+    "latex_symbols": [
+      "A_{nc}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Net cross-sectional area of the connected leg of a member"
+  },
+  "symbols-p19-right-12": {
+    "latex": "A_{nf}",
+    "latex_symbols": [
+      "A_{nf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Net cross-sectional area of each flange"
+  },
+  "symbols-p19-right-13": {
+    "latex": "A_{no}",
+    "latex_symbols": [
+      "A_{no}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Net cross-sectional area of outstanding (not connected) leg of a member"
+  },
+  "symbols-p19-right-14": {
+    "latex": "A_{pb}",
+    "latex_symbols": [
+      "A_{pb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Nominal bearing area of bolt on any plate"
+  },
+  "symbols-p19-right-15": {
+    "latex": "A_q",
+    "latex_symbols": [
+      "A_q"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Cross-sectional area of a bearing (load carrying) stiffener in contact with the flange"
+  },
+  "symbols-p19-right-16": {
+    "latex": "A_s",
+    "latex_symbols": [
+      "A_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Tensile stress area"
+  },
+  "symbols-p19-right-17": {
+    "latex": "A_{sb}",
+    "latex_symbols": [
+      "A_{sb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Gross cross-sectional area of a bolt at the shank"
+  },
+  "symbols-p19-right-18": {
+    "latex": "A_{tg}",
+    "latex_symbols": [
+      "A_{tg}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 19,
+    "source_column": "right",
+    "definition_at_review": "Gross sectional area in tension from the centre of the hole to the toe of the angle section/channel section, etc (see 6.4) perpendicular to the line of force"
+  },
+  "symbols-p20-left-01": {
+    "latex": "A_{tn}",
+    "latex_symbols": [
+      "A_{tn}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Net sectional area in tension from the centre of the hole to the toe of the angle perpendicular to the line of force (see 6.4)"
+  },
+  "symbols-p20-left-02": {
+    "latex": "A_v",
+    "latex_symbols": [
+      "A_v"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Shear area"
+  },
+  "symbols-p20-left-03": {
+    "latex": "A_{vg}",
+    "latex_symbols": [
+      "A_{vg}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Gross cross-sectional area in shear along the line of transmitted force (see 6.4)"
+  },
+  "symbols-p20-left-04": {
+    "latex": "A_{vn}",
+    "latex_symbols": [
+      "A_{vn}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Net cross-sectional area in shear along the line of transmitted force (se: 6.4 )",
+    "meaning_corrected": "Net cross-sectional area in shear along the line of transmitted force (see 6.4)"
+  },
+  "symbols-p20-left-05": {
+    "latex": "a,\\; b",
+    "latex_symbols": [
+      "a",
+      "b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Larger and smaller projection of the slab base beyond the rectangle circumscribing the column, respectively (see 7.4)",
+    "meaning_corrected": "Larger and smaller projection of the slab base beyond the rectangle circumscribing the column, respectively (see 7.4)"
+  },
+  "symbols-p20-left-06": {
+    "latex": "a_o",
+    "latex_symbols": [
+      "a_o"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Peak acceleration"
+  },
+  "symbols-p20-left-07": {
+    "latex": "a_1",
+    "latex_symbols": [
+      "a_1"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Unsupported length of individual elements being laced between lacing points"
+  },
+  "symbols-p20-left-08": {
+    "latex": "B",
+    "latex_symbols": [
+      "B"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Length of side of cap or base plate of a column"
+  },
+  "symbols-p20-left-09": {
+    "latex": "b",
+    "latex_symbols": [
+      "b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Outstand/width of the element"
+  },
+  "symbols-p20-left-10": {
+    "latex": "b_1",
+    "latex_symbols": [
+      "b_1"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Stiff bearing length, Stiffener bearing length"
+  },
+  "symbols-p20-left-11": {
+    "latex": "b_e",
+    "latex_symbols": [
+      "b_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Effective width of flange between pair of bolts"
+  },
+  "symbols-p20-left-12": {
+    "latex": "b_f",
+    "latex_symbols": [
+      "b_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Width of the flange"
+  },
+  "symbols-p20-left-13": {
+    "latex": "b_i",
+    "latex_symbols": [
+      "b_i"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Width of flange as an internal element"
+  },
+  "symbols-p20-left-14": {
+    "latex": "b_o",
+    "latex_symbols": [
+      "b_o"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Width of flange outstand"
+  },
+  "symbols-p20-left-15": {
+    "latex": "b_p",
+    "latex_symbols": [
+      "b_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Panel zone width between column flanges at beam-column junction"
+  },
+  "symbols-p20-left-16": {
+    "latex": "b_s",
+    "latex_symbols": [
+      "b_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Shear lag distance"
+  },
+  "symbols-p20-left-17": {
+    "latex": "b_t",
+    "latex_symbols": [
+      "b_t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Width of tension field"
+  },
+  "symbols-p20-left-18": {
+    "latex": "b_w",
+    "latex_symbols": [
+      "b_w"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Width of outstanding leg"
+  },
+  "symbols-p20-left-19": {
+    "latex": "C",
+    "latex_symbols": [
+      "C"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Centre-to-centre longitudinal distance of battens"
+  },
+  "symbols-p20-left-20": {
+    "latex": "C_m",
+    "latex_symbols": [
+      "C_m"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Coefficient of thermal expansion"
+  },
+  "symbols-p20-left-21": {
+    "latex": "C_{my},\\; C_{mz}",
+    "latex_symbols": [
+      "C_{my}",
+      "C_{mz}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Moment amplification factor about respective axes"
+  },
+  "symbols-p20-left-22": {
+    "latex": "c",
+    "latex_symbols": [
+      "c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Spacing of transverse stiffener"
+  },
+  "symbols-p20-left-23": {
+    "latex": "c_b",
+    "latex_symbols": [
+      "c_b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Moment amplification factor for braced member"
+  },
+  "symbols-p20-left-24": {
+    "latex": "c_m",
+    "latex_symbols": [
+      "c_m"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Moment reduction factor for lateral torsional buckling strength calculation"
+  },
+  "symbols-p20-left-25": {
+    "latex": "c_s",
+    "latex_symbols": [
+      "c_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Moment amplification factor for sway frame"
+  },
+  "symbols-p20-left-26": {
+    "latex": "D",
+    "latex_symbols": [
+      "D"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Overall depth/diameter of the cross- section"
+  },
+  "symbols-p20-left-27": {
+    "latex": "d",
+    "latex_symbols": [
+      "d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Depth of web, Nominal diameter"
+  },
+  "symbols-p20-left-28": {
+    "latex": "d_2",
+    "latex_symbols": [
+      "d_2"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "left",
+    "definition_at_review": "Twice the clear distance from the compression flange angles, plates or tongue plates to the neutral axis"
+  },
+  "symbols-p20-right-01": {
+    "latex": "d_h",
+    "latex_symbols": [
+      "d_h"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Diameter of a bolt/ rivet hole"
+  },
+  "symbols-p20-right-02": {
+    "latex": "d_o",
+    "latex_symbols": [
+      "d_o"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Nominal diameter of the pipe column or the dimensions of the column in the depth direction of the base plate"
+  },
+  "symbols-p20-right-03": {
+    "latex": "d_p",
+    "latex_symbols": [
+      "d_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Panel zone depth in the beam-column junction"
+  },
+  "symbols-p20-right-04": {
+    "latex": "E",
+    "latex_symbols": [
+      "E"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Modulus of elasticity for steel"
+  },
+  "symbols-p20-right-05": {
+    "latex": "E(T)",
+    "latex_symbols": [
+      "E(T)"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Modulus of elasticity of steel at T “C",
+    "meaning_corrected": "Modulus of elasticity of steel at T °C"
+  },
+  "symbols-p20-right-06": {
+    "latex": "E(20)",
+    "latex_symbols": [
+      "E(20)"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Modulus of elasticity of steel at 20”C",
+    "meaning_corrected": "Modulus of elasticity of steel at 20°C"
+  },
+  "symbols-p20-right-07": {
+    "latex": "E_p",
+    "latex_symbols": [
+      "E_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Modulus of elasticity of the panel material"
+  },
+  "symbols-p20-right-08": {
+    "latex": "F_{cdw}",
+    "latex_symbols": [
+      "F_{cdw}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Buckling strength of un-stiffened beam web under concentrated load"
+  },
+  "symbols-p20-right-09": {
+    "latex": "F_d",
+    "latex_symbols": [
+      "F_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Factored design load"
+  },
+  "symbols-p20-right-10": {
+    "latex": "F_n",
+    "latex_symbols": [
+      "F_n"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Normal force"
+  },
+  "symbols-p20-right-11": {
+    "latex": "F_o",
+    "latex_symbols": [
+      "F_o"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Minimum proof pretension in high strength friction grip bolts."
+  },
+  "symbols-p20-right-12": {
+    "latex": "F_{psd}",
+    "latex_symbols": [
+      "F_{psd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Bearing capacity of load carrying stiffener"
+  },
+  "symbols-p20-right-13": {
+    "latex": "F_q",
+    "latex_symbols": [
+      "F_q"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Stiffener force"
+  },
+  "symbols-p20-right-14": {
+    "latex": "F_{qd}",
+    "latex_symbols": [
+      "F_{qd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Stiffener buckling resistance"
+  },
+  "symbols-p20-right-15": {
+    "latex": "F_{\\mathrm{test}}",
+    "latex_symbols": [
+      "F_{\\mathrm{test}}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Test load"
+  },
+  "symbols-p20-right-16": {
+    "latex": "F_{\\mathrm{test},a}",
+    "latex_symbols": [
+      "F_{\\mathrm{test},a}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Load for acceptance test"
+  },
+  "symbols-p20-right-17": {
+    "latex": "F_{\\mathrm{test},\\mathrm{Min}}",
+    "latex_symbols": [
+      "F_{\\mathrm{test},\\mathrm{Min}}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Minimum test load from the test to failure"
+  },
+  "symbols-p20-right-18": {
+    "latex": "F_{\\mathrm{test},R}",
+    "latex_symbols": [
+      "F_{\\mathrm{test},R}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Test load resistance"
+  },
+  "symbols-p20-right-19": {
+    "latex": "F_{\\mathrm{test},S}",
+    "latex_symbols": [
+      "F_{\\mathrm{test},S}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Strength test load"
+  },
+  "symbols-p20-right-20": {
+    "latex": "F_w",
+    "latex_symbols": [
+      "F_w"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Design capacity of the web in bearing"
+  },
+  "symbols-p20-right-21": {
+    "latex": "F_x",
+    "latex_symbols": [
+      "F_x"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "External load, force or reaction"
+  },
+  "symbols-p20-right-22": {
+    "latex": "F_{xd}",
+    "latex_symbols": [
+      "F_{xd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Buckling resistance of load carrying web stiffener"
+  },
+  "symbols-p20-right-23": {
+    "latex": "f",
+    "latex_symbols": [
+      "f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Actual normal stress range for the detail category"
+  },
+  "symbols-p20-right-24": {
+    "latex": "f_1",
+    "latex_symbols": [
+      "f_1"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Frequency for a simply supported one way system"
+  },
+  "symbols-p20-right-25": {
+    "latex": "f_2",
+    "latex_symbols": [
+      "f_2"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Frequency of floor supported on steel girder perpendicular to the joist"
+  },
+  "symbols-p20-right-26": {
+    "latex": "f_a",
+    "latex_symbols": [
+      "f_a"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Calculated stress due to axial force at service load"
+  },
+  "symbols-p20-right-27": {
+    "latex": "f_{abc}",
+    "latex_symbols": [
+      "f_{abc}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Permissible bending stress in compression at service load"
+  },
+  "symbols-p20-right-28": {
+    "latex": "f_{ac}",
+    "latex_symbols": [
+      "f_{ac}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Permissible compressive stress at service load"
+  },
+  "symbols-p20-right-29": {
+    "latex": "f_{abt}",
+    "latex_symbols": [
+      "f_{abt}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Permissible bending stress in tension at service load"
+  },
+  "symbols-p20-right-30": {
+    "latex": "f_{apb}",
+    "latex_symbols": [
+      "f_{apb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Permissible bearing stress of the bolt at service load"
+  },
+  "symbols-p20-right-31": {
+    "latex": "f_{asb}",
+    "latex_symbols": [
+      "f_{asb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 20,
+    "source_column": "right",
+    "definition_at_review": "Permissible stress of the bolt in shear at service load"
+  },
+  "symbols-p21-left-01": {
+    "latex": "f_{at}",
+    "latex_symbols": [
+      "f_{at}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "permissible tensile stress at service ,oad",
+    "meaning_corrected": "Permissible tensile stress at service load"
+  },
+  "symbols-p21-left-02": {
+    "latex": "f_{atb}",
+    "latex_symbols": [
+      "f_{atb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Permissible tensile stress of the bolt it service load",
+    "meaning_corrected": "Permissible tensile stress of the bolt at service load"
+  },
+  "symbols-p21-left-03": {
+    "latex": "f_{aw}",
+    "latex_symbols": [
+      "f_{aw}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Permissible stress of the weld at service load"
+  },
+  "symbols-p21-left-04": {
+    "latex": "f_b",
+    "latex_symbols": [
+      "f_b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual bending stress at service load"
+  },
+  "symbols-p21-left-05": {
+    "latex": "f_{bc}",
+    "latex_symbols": [
+      "f_{bc}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual bending stress in compression at service load"
+  },
+  "symbols-p21-left-06": {
+    "latex": "f_{bd}",
+    "latex_symbols": [
+      "f_{bd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Design bending compressive stress corresponding to lateral buckling"
+  },
+  "symbols-p21-left-07": {
+    "latex": "f_{br}",
+    "latex_symbols": [
+      "f_{br}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual bearing stress due to bending at service load"
+  },
+  "symbols-p21-left-08": {
+    "latex": "f_{bt}",
+    "latex_symbols": [
+      "f_{bt}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual bending stress in tension at service load"
+  },
+  "symbols-p21-left-09": {
+    "latex": "f_{bs}",
+    "latex_symbols": [
+      "f_{bs}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Permissible bending stress in column base at service load"
+  },
+  "symbols-p21-left-10": {
+    "latex": "f_c",
+    "latex_symbols": [
+      "f_c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual axial compressive stress at service load"
+  },
+  "symbols-p21-left-11": {
+    "latex": "f_{cc}",
+    "latex_symbols": [
+      "f_{cc}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Elastic buckling stress of a column, Euler buckling stress"
+  },
+  "symbols-p21-left-12": {
+    "latex": "f_{cd}",
+    "latex_symbols": [
+      "f_{cd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Design compressive stress"
+  },
+  "symbols-p21-left-13": {
+    "latex": "f_{cr,b}",
+    "latex_symbols": [
+      "f_{cr,b}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Extreme fibre compressive stress corresponding elastic lateral buckling moment"
+  },
+  "symbols-p21-left-14": {
+    "latex": "f_e",
+    "latex_symbols": [
+      "f_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Equivalent stress at service load"
+  },
+  "symbols-p21-left-15": {
+    "latex": "f_f",
+    "latex_symbols": [
+      "f_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Fatigue stress range corresponding to 5 x 10’ cycles of loading",
+    "meaning_corrected": "Fatigue stress range corresponding to 5 × 10⁶ cycles of loading"
+  },
+  "symbols-p21-left-16": {
+    "latex": "f_{feq}",
+    "latex_symbols": [
+      "f_{feq}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Equivalent constant amplitude stress"
+  },
+  "symbols-p21-left-17": {
+    "latex": "f_{fd}",
+    "latex_symbols": [
+      "f_{fd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Design normal fatigue strength"
+  },
+  "symbols-p21-left-18": {
+    "latex": "f_{f,\\mathrm{Max}}",
+    "latex_symbols": [
+      "f_{f,\\mathrm{Max}}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Highest normal stress range"
+  },
+  "symbols-p21-left-19": {
+    "latex": "f_{fn}",
+    "latex_symbols": [
+      "f_{fn}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Normal fatigue stress range"
+  },
+  "symbols-p21-left-20": {
+    "latex": "f_{nw}",
+    "latex_symbols": [
+      "f_{nw}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Normal stress in weld at service load"
+  },
+  "symbols-p21-left-21": {
+    "latex": "f_o",
+    "latex_symbols": [
+      "f_o"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Proof stress"
+  },
+  "symbols-p21-left-22": {
+    "latex": "f_p",
+    "latex_symbols": [
+      "f_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual bearing stress at service load"
+  },
+  "symbols-p21-left-23": {
+    "latex": "f_{pb}",
+    "latex_symbols": [
+      "f_{pb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual bearing stress in bending at service load"
+  },
+  "symbols-p21-left-24": {
+    "latex": "f_{psd}",
+    "latex_symbols": [
+      "f_{psd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Bearing strength of the stiffeners"
+  },
+  "symbols-p21-left-25": {
+    "latex": "f_r",
+    "latex_symbols": [
+      "f_r"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Frequency"
+  },
+  "symbols-p21-left-26": {
+    "latex": "f_{sb}",
+    "latex_symbols": [
+      "f_{sb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual shear stress in bolt at service load"
+  },
+  "symbols-p21-left-27": {
+    "latex": "f_t",
+    "latex_symbols": [
+      "f_t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual tensile stress at service load"
+  },
+  "symbols-p21-left-28": {
+    "latex": "f_{tb}",
+    "latex_symbols": [
+      "f_{tb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Actual tensile stress of the bolt at service load"
+  },
+  "symbols-p21-left-29": {
+    "latex": "f_u",
+    "latex_symbols": [
+      "f_u"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Characteristic ultimate tensile stress"
+  },
+  "symbols-p21-left-30": {
+    "latex": "f_{ub}",
+    "latex_symbols": [
+      "f_{ub}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Characteristic ultimate tensile stress of the bolt"
+  },
+  "symbols-p21-left-31": {
+    "latex": "f_{um}",
+    "latex_symbols": [
+      "f_{um}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Average ultimate stress of the material as obtained from test"
+  },
+  "symbols-p21-left-32": {
+    "latex": "f_{up}",
+    "latex_symbols": [
+      "f_{up}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "left",
+    "definition_at_review": "Characteristic ultimate tensile stress of the connected plate"
+  },
+  "symbols-p21-right-01": {
+    "latex": "f_v",
+    "latex_symbols": [
+      "f_v"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Applied shear stress in the panel designed utilizing tension field action"
+  },
+  "symbols-p21-right-02": {
+    "latex": "f_w",
+    "latex_symbols": [
+      "f_w"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Actual stress of weld at service load"
+  },
+  "symbols-p21-right-03": {
+    "latex": "f_{wd}",
+    "latex_symbols": [
+      "f_{wd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Design stress of weld at service load"
+  },
+  "symbols-p21-right-04": {
+    "latex": "f_{wn}",
+    "latex_symbols": [
+      "f_{wn}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Nominal strength of fillet weld"
+  },
+  "symbols-p21-right-05": {
+    "latex": "f_x",
+    "latex_symbols": [
+      "f_x"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Maximum longitudinal stress under combined axial force and bending"
+  },
+  "symbols-p21-right-06": {
+    "latex": "f_y",
+    "latex_symbols": [
+      "f_y"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Characteristic yield stress"
+  },
+  "symbols-p21-right-07": {
+    "latex": "f_y(T)",
+    "latex_symbols": [
+      "f_y(T)"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Yield stress of steel at T ‘C",
+    "meaning_corrected": "Yield stress of steel at T °C"
+  },
+  "symbols-p21-right-08": {
+    "latex": "f_y(20)",
+    "latex_symbols": [
+      "f_y(20)"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Yield stress of steel at 20°C"
+  },
+  "symbols-p21-right-09": {
+    "latex": "f_{yb}",
+    "latex_symbols": [
+      "f_{yb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Characteristic yield stress of bolt"
+  },
+  "symbols-p21-right-10": {
+    "latex": "f_{yf}",
+    "latex_symbols": [
+      "f_{yf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Characteristic yield stress of flange"
+  },
+  "symbols-p21-right-11": {
+    "latex": "f_{ym}",
+    "latex_symbols": [
+      "f_{ym}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Average yield stress as obtained from test"
+  },
+  "symbols-p21-right-12": {
+    "latex": "f_{yp}",
+    "latex_symbols": [
+      "f_{yp}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Characteristic yield stress of connected plate"
+  },
+  "symbols-p21-right-13": {
+    "latex": "f_{yq}",
+    "latex_symbols": [
+      "f_{yq}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Characteristic yield stress of stiffener material"
+  },
+  "symbols-p21-right-14": {
+    "latex": "f_{yw}",
+    "latex_symbols": [
+      "f_{yw}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Characteristic yield stress of the web material"
+  },
+  "symbols-p21-right-15": {
+    "latex": "G",
+    "latex_symbols": [
+      "G"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Modulus of rigidity for steel"
+  },
+  "symbols-p21-right-16": {
+    "latex": "g",
+    "latex_symbols": [
+      "g"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Gauge length between centre of the holes perpendicular to the load direction, acceleration due to gravity"
+  },
+  "symbols-p21-right-17": {
+    "latex": "h",
+    "latex_symbols": [
+      "h"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Depth of the section"
+  },
+  "symbols-p21-right-18": {
+    "latex": "h_b",
+    "latex_symbols": [
+      "h_b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Total height from the base to the floor level concerned"
+  },
+  "symbols-p21-right-19": {
+    "latex": "h_c",
+    "latex_symbols": [
+      "h_c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Height of the column"
+  },
+  "symbols-p21-right-20": {
+    "latex": "h_e",
+    "latex_symbols": [
+      "h_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Effective thickness"
+  },
+  "symbols-p21-right-21": {
+    "latex": "h_f",
+    "latex_symbols": [
+      "h_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Cenre-to-centre distance of flanges"
+  },
+  "symbols-p21-right-22": {
+    "latex": "h_i",
+    "latex_symbols": [
+      "h_i"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Thickness of fire protection material"
+  },
+  "symbols-p21-right-23": {
+    "latex": "h_L",
+    "latex_symbols": [
+      "h_L"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Height of the lip"
+  },
+  "symbols-p21-right-24": {
+    "latex": "h_s",
+    "latex_symbols": [
+      "h_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Storey height"
+  },
+  "symbols-p21-right-25": {
+    "latex": "h_y",
+    "latex_symbols": [
+      "h_y"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Distance between shear centre of the two flanges of a cross-section"
+  },
+  "symbols-p21-right-26": {
+    "latex": "I",
+    "latex_symbols": [
+      "I"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Moment of inertia of the member about an axis perpendicular to the plane of the frame"
+  },
+  "symbols-p21-right-27": {
+    "latex": "I_{fc}",
+    "latex_symbols": [
+      "I_{fc}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Moment of inertia of the compression flange of the beam about the axis parallel to the web"
+  },
+  "symbols-p21-right-28": {
+    "latex": "I_{ft}",
+    "latex_symbols": [
+      "I_{ft}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Moment of inertia of the tension flange of the beam about minor axis"
+  },
+  "symbols-p21-right-29": {
+    "latex": "I_q",
+    "latex_symbols": [
+      "I_q"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Moment of inertia of a pair of stiffener about the centre of the web, or a single stiffener about the face of the web"
+  },
+  "symbols-p21-right-30": {
+    "latex": "I_s",
+    "latex_symbols": [
+      "I_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Second moment of inertia"
+  },
+  "symbols-p21-right-31": {
+    "latex": "I_{so}",
+    "latex_symbols": [
+      "I_{so}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 21,
+    "source_column": "right",
+    "definition_at_review": "Second moment of inertia of the stiffener about the face of the element perpendicular to the web"
+  },
+  "symbols-p22-left-01": {
+    "latex": "I_T",
+    "latex_symbols": [
+      "I_T"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Transformed moment of inertia of the one way system (in terms of equivalent steel, assuming the concrete flange of width equal to the spacing of the beam to be effective)"
+  },
+  "symbols-p22-left-02": {
+    "latex": "I_t",
+    "latex_symbols": [
+      "I_t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "St. Venant’s torsion constant"
+  },
+  "symbols-p22-left-03": {
+    "latex": "I_w",
+    "latex_symbols": [
+      "I_w"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Warping constant"
+  },
+  "symbols-p22-left-04": {
+    "latex": "I_y",
+    "latex_symbols": [
+      "I_y"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Moment of inertia about the minor axis of the cross-section"
+  },
+  "symbols-p22-left-05": {
+    "latex": "I_z",
+    "latex_symbols": [
+      "I_z"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Moment of inertia about the major axis of the cross-section"
+  },
+  "symbols-p22-left-06": {
+    "latex": "K_b",
+    "latex_symbols": [
+      "K_b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Effective stiffness of the beam and column"
+  },
+  "symbols-p22-left-07": {
+    "latex": "K_h",
+    "latex_symbols": [
+      "K_h"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Reduction factor to account for the high strength friction grip connection bolts in over sized and slotted holes"
+  },
+  "symbols-p22-left-08": {
+    "latex": "KL",
+    "latex_symbols": [
+      "KL"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Effective length of the member"
+  },
+  "symbols-p22-left-09": {
+    "latex": "KL/r",
+    "latex_symbols": [
+      "KL/r"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Appropriate effective slenderness ratio of the section"
+  },
+  "symbols-p22-left-10": {
+    "latex": "KL/r_y",
+    "latex_symbols": [
+      "KL/r_y"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Effective slenderness ratio of the section about the minor axis of the section"
+  },
+  "symbols-p22-left-11": {
+    "latex": "KL/r_z",
+    "latex_symbols": [
+      "KL/r_z"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Effective slenderness ratio of the section about the major axis of the section"
+  },
+  "symbols-p22-left-12": {
+    "latex": "\\left(\\frac{KL}{r}\\right)_o",
+    "latex_symbols": [
+      "\\left(\\frac{KL}{r}\\right)_o"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Actual maximum effective slenderness ratio of the laced column"
+  },
+  "symbols-p22-left-13": {
+    "latex": "\\left(\\frac{KL}{r}\\right)_e",
+    "latex_symbols": [
+      "\\left(\\frac{KL}{r}\\right)_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Effective slenderness ratio of the laced column accounting for shear deformation"
+  },
+  "symbols-p22-left-14": {
+    "latex": "K_v",
+    "latex_symbols": [
+      "K_v"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Shear buckling co-efficient"
+  },
+  "symbols-p22-left-15": {
+    "latex": "K_w",
+    "latex_symbols": [
+      "K_w"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Warping restraint factor"
+  },
+  "symbols-p22-left-16": {
+    "latex": "k",
+    "latex_symbols": [
+      "k"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Regression coefficient"
+  },
+  "symbols-p22-left-17": {
+    "latex": "k_{sm}",
+    "latex_symbols": [
+      "k_{sm}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Exposed surface area to mass ratio"
+  },
+  "symbols-p22-left-18": {
+    "latex": "L",
+    "latex_symbols": [
+      "L"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Actual length, unsupported length, Length centre-to-centre distance of the intersecting members, Cantilever length"
+  },
+  "symbols-p22-left-19": {
+    "latex": "L_c",
+    "latex_symbols": [
+      "L_c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Length of end connection in bolted and welded members, taken as the distance between outermost fasteners in the end connection, or the length of the end weld, measured along the length of the member"
+  },
+  "symbols-p22-left-20": {
+    "latex": "L_{LT}",
+    "latex_symbols": [
+      "L_{LT}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Effective length for lateral torsional buckling"
+  },
+  "symbols-p22-left-21": {
+    "latex": "L_m",
+    "latex_symbols": [
+      "L_m"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Maximum distance from the restraint to the compression flange at the plastic hinge to an adjacent restraint (limiting distance)"
+  },
+  "symbols-p22-left-22": {
+    "latex": "L_o",
+    "latex_symbols": [
+      "L_o"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "left",
+    "definition_at_review": "Length between points of zero moment (inflection) in the span"
+  },
+  "symbols-p22-right-01": {
+    "latex": "l",
+    "latex_symbols": [
+      "l"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Centre-to-centre length of the supporting member"
+  },
+  "symbols-p22-right-02": {
+    "latex": "l_e",
+    "latex_symbols": [
+      "l_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Distance between prying force and bolt centre line"
+  },
+  "symbols-p22-right-03": {
+    "latex": "l_g",
+    "latex_symbols": [
+      "l_g"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Grip length of bolts in a connection"
+  },
+  "symbols-p22-right-04": {
+    "latex": "l_j",
+    "latex_symbols": [
+      "l_j"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Length of the joint"
+  },
+  "symbols-p22-right-05": {
+    "latex": "l_s",
+    "latex_symbols": [
+      "l_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Length between points of lateral support to the compression flange in a beam"
+  },
+  "symbols-p22-right-06": {
+    "latex": "l_v",
+    "latex_symbols": [
+      "l_v"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Distance from bolt centre line to the toe of fillet weld or to half the root radius for a rolled section"
+  },
+  "symbols-p22-right-07": {
+    "latex": "l_w",
+    "latex_symbols": [
+      "l_w"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Length of weld"
+  },
+  "symbols-p22-right-08": {
+    "latex": "M",
+    "latex_symbols": [
+      "M"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Bending moment"
+  },
+  "symbols-p22-right-09": {
+    "latex": "M_a",
+    "latex_symbols": [
+      "M_a"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Applied bending moment"
+  },
+  "symbols-p22-right-10": {
+    "latex": "M_{cr}",
+    "latex_symbols": [
+      "M_{cr}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Elastic critical moment corresponding to lateral torsional buckling of the beam"
+  },
+  "symbols-p22-right-11": {
+    "latex": "M_d",
+    "latex_symbols": [
+      "M_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Design flexural strength"
+  },
+  "symbols-p22-right-12": {
+    "latex": "M_{dv}",
+    "latex_symbols": [
+      "M_{dv}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Moment capacity of the section under high shear"
+  },
+  "symbols-p22-right-13": {
+    "latex": "M_{dy}",
+    "latex_symbols": [
+      "M_{dy}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Design bending strength about the minor axis of the cross-section"
+  },
+  "symbols-p22-right-14": {
+    "latex": "M_{dz}",
+    "latex_symbols": [
+      "M_{dz}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Design bending strength about the major axis of the cross-section"
+  },
+  "symbols-p22-right-15": {
+    "latex": "M_{eff}",
+    "latex_symbols": [
+      "M_{eff}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Reduced effective moment"
+  },
+  "symbols-p22-right-16": {
+    "latex": "M_{fr}",
+    "latex_symbols": [
+      "M_{fr}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Reduced plastic moment capacity of the flange plate"
+  },
+  "symbols-p22-right-17": {
+    "latex": "M_{fd}",
+    "latex_symbols": [
+      "M_{fd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Design piastic resistance of the flange alone",
+    "meaning_corrected": "Design plastic resistance of the flange alone"
+  },
+  "symbols-p22-right-18": {
+    "latex": "M_{nd}",
+    "latex_symbols": [
+      "M_{nd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Design bending strength under combined axial force and uniaxial moment"
+  },
+  "symbols-p22-right-19": {
+    "latex": "M_{ndy},\\; M_{ndz}",
+    "latex_symbols": [
+      "M_{ndy}",
+      "M_{ndz}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Design bending strength under combined axial force and the respective uniaxial moment acting alone"
+  },
+  "symbols-p22-right-20": {
+    "latex": "M_p",
+    "latex_symbols": [
+      "M_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Plastic moment capacity of the section"
+  },
+  "symbols-p22-right-21": {
+    "latex": "M_{pb}",
+    "latex_symbols": [
+      "M_{pb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Moment in the beam at the intersection of the beam and column centre lines"
+  },
+  "symbols-p22-right-22": {
+    "latex": "M_{pc}",
+    "latex_symbols": [
+      "M_{pc}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Moments in the column above and below the beam surfaces"
+  },
+  "symbols-p22-right-23": {
+    "latex": "M_{pd}",
+    "latex_symbols": [
+      "M_{pd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Plastic design strength"
+  },
+  "symbols-p22-right-24": {
+    "latex": "M_{pdf}",
+    "latex_symbols": [
+      "M_{pdf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Plastic design strength of flanges only"
+  },
+  "symbols-p22-right-25": {
+    "latex": "M_q",
+    "latex_symbols": [
+      "M_q"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Applied moment on the stiffener"
+  },
+  "symbols-p22-right-26": {
+    "latex": "M_s",
+    "latex_symbols": [
+      "M_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Moment at service (working) load"
+  },
+  "symbols-p22-right-27": {
+    "latex": "M_{tf}",
+    "latex_symbols": [
+      "M_{tf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Moment resistance of tension flange"
+  },
+  "symbols-p22-right-28": {
+    "latex": "M_y",
+    "latex_symbols": [
+      "M_y"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 22,
+    "source_column": "right",
+    "definition_at_review": "Factored applied moment about the minor axis of the cross-section"
+  },
+  "symbols-p23-left-01": {
+    "latex": "M_{yq}",
+    "latex_symbols": [
+      "M_{yq}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Moment capacity of the stiffener based on its elastic modulus"
+  },
+  "symbols-p23-left-02": {
+    "latex": "M_z",
+    "latex_symbols": [
+      "M_z"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Factored applied moment about the major axis of the cross-section"
+  },
+  "symbols-p23-left-03": {
+    "latex": "N",
+    "latex_symbols": [
+      "N"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Number of parallel planes of battens"
+  },
+  "symbols-p23-left-04": {
+    "latex": "N_d",
+    "latex_symbols": [
+      "N_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Design strength in tension or in compression"
+  },
+  "symbols-p23-left-05": {
+    "latex": "N_f",
+    "latex_symbols": [
+      "N_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Axial force in the flange"
+  },
+  "symbols-p23-left-06": {
+    "latex": "N_{SC}",
+    "latex_symbols": [
+      "N_{SC}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Numberof stress cycles",
+    "meaning_corrected": "Number of stress cycles"
+  },
+  "symbols-p23-left-07": {
+    "latex": "n",
+    "latex_symbols": [
+      "n"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Number of bolts in the bolt group/ critical section"
+  },
+  "symbols-p23-left-08": {
+    "latex": "n_e",
+    "latex_symbols": [
+      "n_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Number of effective interfaces offering frictional resistance to slip"
+  },
+  "symbols-p23-left-09": {
+    "latex": "n_n",
+    "latex_symbols": [
+      "n_n"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Number of shear planes with the threads intercepting the shear plane in the bolted connection"
+  },
+  "symbols-p23-left-10": {
+    "latex": "n_s",
+    "latex_symbols": [
+      "n_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Number of shear planes without threads intercepting the shear plane in the bolted connection"
+  },
+  "symbols-p23-left-11": {
+    "latex": "P",
+    "latex_symbols": [
+      "P"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Factored applied axial force"
+  },
+  "symbols-p23-left-12": {
+    "latex": "P_{cc}",
+    "latex_symbols": [
+      "P_{cc}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Elastic buckling load"
+  },
+  "symbols-p23-left-13": {
+    "latex": "P_d",
+    "latex_symbols": [
+      "P_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Design axial compressive strength"
+  },
+  "symbols-p23-left-14": {
+    "latex": "P_{dy},\\; P_{dz}",
+    "latex_symbols": [
+      "P_{dy}",
+      "P_{dz}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Design compression strength as governed by flexural buckling about the respective axis"
+  },
+  "symbols-p23-left-15": {
+    "latex": "P_e",
+    "latex_symbols": [
+      "P_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Elastic Euler buckling load"
+  },
+  "symbols-p23-left-16": {
+    "latex": "P_{\\mathrm{Min}}",
+    "latex_symbols": [
+      "P_{\\mathrm{Min}}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Minimum required strength for each flange splice"
+  },
+  "symbols-p23-left-17": {
+    "latex": "P_r",
+    "latex_symbols": [
+      "P_r"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Required compressive strength"
+  },
+  "symbols-p23-left-18": {
+    "latex": "P_s",
+    "latex_symbols": [
+      "P_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Actual compression at service load"
+  },
+  "symbols-p23-left-19": {
+    "latex": "P_y",
+    "latex_symbols": [
+      "P_y"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Yield strength of the cross-section under axial compression"
+  },
+  "symbols-p23-left-20": {
+    "latex": "p",
+    "latex_symbols": [
+      "p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Pitch length between centres of holes parallel to the direction of the load"
+  },
+  "symbols-p23-left-21": {
+    "latex": "p_s",
+    "latex_symbols": [
+      "p_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Staggered pitch length along the direction of the load between lines of the bolt holes (see Fig. 5)"
+  },
+  "symbols-p23-left-22": {
+    "latex": "Q",
+    "latex_symbols": [
+      "Q"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Prying force"
+  },
+  "symbols-p23-left-23": {
+    "latex": "Q_a",
+    "latex_symbols": [
+      "Q_a"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Accidental load (Action)"
+  },
+  "symbols-p23-left-24": {
+    "latex": "Q_c",
+    "latex_symbols": [
+      "Q_c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Characteristic loads (Action)"
+  },
+  "symbols-p23-left-25": {
+    "latex": "Q_d",
+    "latex_symbols": [
+      "Q_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Design load (Action)"
+  },
+  "symbols-p23-left-26": {
+    "latex": "Q_p",
+    "latex_symbols": [
+      "Q_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Permanent loads (Action)"
+  },
+  "symbols-p23-left-27": {
+    "latex": "Q_v",
+    "latex_symbols": [
+      "Q_v"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Variable loads (Action)"
+  },
+  "symbols-p23-left-28": {
+    "latex": "q",
+    "latex_symbols": [
+      "q"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Shear stress at service load"
+  },
+  "symbols-p23-left-29": {
+    "latex": "R",
+    "latex_symbols": [
+      "R"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Ratio of the mean compressive stress in the web (equal to stress at mid depth) to yield stress of the web; reaction of the beam at support"
+  },
+  "symbols-p23-left-30": {
+    "latex": "R_d",
+    "latex_symbols": [
+      "R_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "left",
+    "definition_at_review": "Design strength of the member at room temperature"
+  },
+  "symbols-p23-right-01": {
+    "latex": "R_i",
+    "latex_symbols": [
+      "R_i"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Net shear in bolt group at bolt “i”"
+  },
+  "symbols-p23-right-02": {
+    "latex": "R_r",
+    "latex_symbols": [
+      "R_r"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Response reduction factor"
+  },
+  "symbols-p23-right-03": {
+    "latex": "R_{tf}",
+    "latex_symbols": [
+      "R_{tf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Flange shear resistance"
+  },
+  "symbols-p23-right-04": {
+    "latex": "R_u",
+    "latex_symbols": [
+      "R_u"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Ultimate strength of the member at room temperature"
+  },
+  "symbols-p23-right-05": {
+    "latex": "r",
+    "latex_symbols": [
+      "r"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Appropriate radius of gyration"
+  },
+  "symbols-p23-right-06": {
+    "latex": "r_1",
+    "latex_symbols": [
+      "r_1"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Minimum radius of gyration of the individual element being laced together"
+  },
+  "symbols-p23-right-07": {
+    "latex": "r_f",
+    "latex_symbols": [
+      "r_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Ratio of the design action on the member under fire to the design capacity"
+  },
+  "symbols-p23-right-08": {
+    "latex": "r_{vv}",
+    "latex_symbols": [
+      "r_{vv}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Radius of gyration about the minor axis (v-v) of angle section."
+  },
+  "symbols-p23-right-09": {
+    "latex": "r_y",
+    "latex_symbols": [
+      "r_y"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Radius of gyration about the minor axis"
+  },
+  "symbols-p23-right-10": {
+    "latex": "r_z",
+    "latex_symbols": [
+      "r_z"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Radius of gyration about the major axis"
+  },
+  "symbols-p23-right-11": {
+    "latex": "S",
+    "latex_symbols": [
+      "S"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Minimum transverse distance between the centroid of the rivet or bolt group or weld group"
+  },
+  "symbols-p23-right-12": {
+    "latex": "S_c",
+    "latex_symbols": [
+      "S_c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Constant stress range"
+  },
+  "symbols-p23-right-13": {
+    "latex": "S_d",
+    "latex_symbols": [
+      "S_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Design strength"
+  },
+  "symbols-p23-right-14": {
+    "latex": "S_o",
+    "latex_symbols": [
+      "S_o"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Original cross-sectional area of the test specimen"
+  },
+  "symbols-p23-right-15": {
+    "latex": "S_p",
+    "latex_symbols": [
+      "S_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Spring stiffness"
+  },
+  "symbols-p23-right-16": {
+    "latex": "S_u",
+    "latex_symbols": [
+      "S_u"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Ultimate strength"
+  },
+  "symbols-p23-right-17": {
+    "latex": "s_c",
+    "latex_symbols": [
+      "s_c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Anchorage length of tension field along the compression flange"
+  },
+  "symbols-p23-right-18": {
+    "latex": "s_t",
+    "latex_symbols": [
+      "s_t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Anchorage length of tension field along the tension flange"
+  },
+  "symbols-p23-right-19": {
+    "latex": "s_a",
+    "latex_symbols": [
+      "s_a"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Actual stiffener spacing"
+  },
+  "symbols-p23-right-20": {
+    "latex": "T",
+    "latex_symbols": [
+      "T"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Temperature in degree Celsius; Factored tension"
+  },
+  "symbols-p23-right-21": {
+    "latex": "T_b",
+    "latex_symbols": [
+      "T_b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Applied tension in bolt"
+  },
+  "symbols-p23-right-22": {
+    "latex": "T_{cf}",
+    "latex_symbols": [
+      "T_{cf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Thickness of compression flange"
+  },
+  "symbols-p23-right-23": {
+    "latex": "T_d",
+    "latex_symbols": [
+      "T_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Design strength under axial tension"
+  },
+  "symbols-p23-right-24": {
+    "latex": "T_{dg}",
+    "latex_symbols": [
+      "T_{dg}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Yielding strength of gross section under axial tension"
+  },
+  "symbols-p23-right-25": {
+    "latex": "T_{dn}",
+    "latex_symbols": [
+      "T_{dn}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Rupture strength of net section under axial tension"
+  },
+  "symbols-p23-right-26": {
+    "latex": "T_{db}",
+    "latex_symbols": [
+      "T_{db}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Design strength of bolt under axial tension; Block shear strength at end connection"
+  },
+  "symbols-p23-right-27": {
+    "latex": "T_e",
+    "latex_symbols": [
+      "T_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Externally applied tension"
+  },
+  "symbols-p23-right-28": {
+    "latex": "T_f",
+    "latex_symbols": [
+      "T_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Factored tension force of friction type bolt"
+  },
+  "symbols-p23-right-29": {
+    "latex": "T_l",
+    "latex_symbols": [
+      "T_l"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Limiting temperature of the steel"
+  },
+  "symbols-p23-right-30": {
+    "latex": "T_{nb}",
+    "latex_symbols": [
+      "T_{nb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Nominal strength of bolt under axial tension"
+  },
+  "symbols-p23-right-31": {
+    "latex": "T_{nd}",
+    "latex_symbols": [
+      "T_{nd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 23,
+    "source_column": "right",
+    "definition_at_review": "Design tension capacity"
+  },
+  "symbols-p24-left-01": {
+    "latex": "T_{ndf}",
+    "latex_symbols": [
+      "T_{ndf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Design tension capacity of friction type bolt"
+  },
+  "symbols-p24-left-02": {
+    "latex": "T_{nf}",
+    "latex_symbols": [
+      "T_{nf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Nominal tensile strength of friction type bolt"
+  },
+  "symbols-p24-left-03": {
+    "latex": "T_s",
+    "latex_symbols": [
+      "T_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Actual tension under service load"
+  },
+  "symbols-p24-left-04": {
+    "latex": "t",
+    "latex_symbols": [
+      "t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Thickness of element/angle, time in minutes"
+  },
+  "symbols-p24-left-05": {
+    "latex": "t_f",
+    "latex_symbols": [
+      "t_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Thickness of flange"
+  },
+  "symbols-p24-left-06": {
+    "latex": "t_p",
+    "latex_symbols": [
+      "t_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Thickness of plate"
+  },
+  "symbols-p24-left-07": {
+    "latex": "t_{pk}",
+    "latex_symbols": [
+      "t_{pk}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Thickness of packing"
+  },
+  "symbols-p24-left-08": {
+    "latex": "t_q",
+    "latex_symbols": [
+      "t_q"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Thickness of stiffener"
+  },
+  "symbols-p24-left-09": {
+    "latex": "t_s",
+    "latex_symbols": [
+      "t_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Thickness of base slab"
+  },
+  "symbols-p24-left-10": {
+    "latex": "t_t",
+    "latex_symbols": [
+      "t_t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Effective throat thickness of welds"
+  },
+  "symbols-p24-left-11": {
+    "latex": "t_w",
+    "latex_symbols": [
+      "t_w"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Thickness of web,"
+  },
+  "symbols-p24-left-12": {
+    "latex": "V",
+    "latex_symbols": [
+      "V"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Factored applied shear force"
+  },
+  "symbols-p24-left-13": {
+    "latex": "V_b",
+    "latex_symbols": [
+      "V_b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Shear in batten plate"
+  },
+  "symbols-p24-left-14": {
+    "latex": "V_{bf}",
+    "latex_symbols": [
+      "V_{bf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Factored frictional shear force in friction type connection"
+  },
+  "symbols-p24-left-15": {
+    "latex": "V_{cr}",
+    "latex_symbols": [
+      "V_{cr}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Critical shear strength corresponding to web buckling"
+  },
+  "symbols-p24-left-16": {
+    "latex": "V_d",
+    "latex_symbols": [
+      "V_d"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Design shear strength"
+  },
+  "symbols-p24-left-17": {
+    "latex": "V_{db}",
+    "latex_symbols": [
+      "V_{db}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Block shear strength"
+  },
+  "symbols-p24-left-18": {
+    "latex": "V_{nb}",
+    "latex_symbols": [
+      "V_{nb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Nominal shear strength of bolt"
+  },
+  "symbols-p24-left-19": {
+    "latex": "V_{nbf}",
+    "latex_symbols": [
+      "V_{nbf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Bearing capacity of bolt for friction type connection"
+  },
+  "symbols-p24-left-20": {
+    "latex": "V_p",
+    "latex_symbols": [
+      "V_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Plastic shear resistance under pure shear"
+  },
+  "symbols-p24-left-21": {
+    "latex": "V_n",
+    "latex_symbols": [
+      "V_n"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Nominal shear strength"
+  },
+  "symbols-p24-left-22": {
+    "latex": "V_{npb}",
+    "latex_symbols": [
+      "V_{npb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Nominal bearing strength of bolt"
+  },
+  "symbols-p24-left-23": {
+    "latex": "V_{nsb}",
+    "latex_symbols": [
+      "V_{nsb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Nominal shear capacity of a bolt"
+  },
+  "symbols-p24-left-24": {
+    "latex": "V_{nsf}",
+    "latex_symbols": [
+      "V_{nsf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Nominal shear capacity of bolt as governed by slip in friction type connection"
+  },
+  "symbols-p24-left-25": {
+    "latex": "V_s",
+    "latex_symbols": [
+      "V_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Transverse shear at service load"
+  },
+  "symbols-p24-left-26": {
+    "latex": "V_{sb}",
+    "latex_symbols": [
+      "V_{sb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Factored shear force in the bolt"
+  },
+  "symbols-p24-left-27": {
+    "latex": "V_{sd}",
+    "latex_symbols": [
+      "V_{sd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Design shear capacity"
+  },
+  "symbols-p24-left-28": {
+    "latex": "V_{sdf}",
+    "latex_symbols": [
+      "V_{sdf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Design shear strength in friction type bolt"
+  },
+  "symbols-p24-left-29": {
+    "latex": "V_{sf}",
+    "latex_symbols": [
+      "V_{sf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Factored design shear force of friction bolts"
+  },
+  "symbols-p24-left-30": {
+    "latex": "V_t",
+    "latex_symbols": [
+      "V_t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Applied transverse shear"
+  },
+  "symbols-p24-left-31": {
+    "latex": "V_{tf}",
+    "latex_symbols": [
+      "V_{tf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Shear resistance in tension field"
+  },
+  "symbols-p24-left-32": {
+    "latex": "W",
+    "latex_symbols": [
+      "W"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Total load"
+  },
+  "symbols-p24-left-33": {
+    "latex": "w",
+    "latex_symbols": [
+      "w"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Uniform pressure from below on the slab base due to axial compression under the factored load"
+  },
+  "symbols-p24-left-34": {
+    "latex": "w_{tf}",
+    "latex_symbols": [
+      "w_{tf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Width of tension field"
+  },
+  "symbols-p24-left-35": {
+    "latex": "x_t",
+    "latex_symbols": [
+      "x_t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Torsional index"
+  },
+  "symbols-p24-left-36": {
+    "latex": "Z_e",
+    "latex_symbols": [
+      "Z_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Elastic section modulus"
+  },
+  "symbols-p24-left-37": {
+    "latex": "Z_{ec}",
+    "latex_symbols": [
+      "Z_{ec}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "left",
+    "definition_at_review": "Elastic section modulus of the member with respect to extreme compression fibre"
+  },
+  "symbols-p24-right-01": {
+    "latex": "Z_{et}",
+    "latex_symbols": [
+      "Z_{et}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Elastic section modulus of the member with respect to extreme tension flbre",
+    "meaning_corrected": "Elastic section modulus of the member with respect to extreme tension fibre"
+  },
+  "symbols-p24-right-02": {
+    "latex": "Z_p",
+    "latex_symbols": [
+      "Z_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Plastic section modulus"
+  },
+  "symbols-p24-right-03": {
+    "latex": "Z_v",
+    "latex_symbols": [
+      "Z_v"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Contribution to the plastic section modulus of the total shear area of the cross-section"
+  },
+  "symbols-p24-right-04": {
+    "latex": "y_g",
+    "latex_symbols": [
+      "y_g"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Distance between point of application of the load and shear centre of the cross-section"
+  },
+  "symbols-p24-right-05": {
+    "latex": "y_s",
+    "latex_symbols": [
+      "y_s"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Co-ordinate of the shear centre in respect to centroid"
+  },
+  "symbols-p24-right-06": {
+    "latex": "\\alpha",
+    "latex_symbols": [
+      "\\alpha"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Imperfection factor for buckling strength in columns and beams"
+  },
+  "symbols-p24-right-07": {
+    "latex": "\\alpha_t",
+    "latex_symbols": [
+      "\\alpha_t"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Coefficient of thermal expansion"
+  },
+  "symbols-p24-right-08": {
+    "latex": "\\beta_M",
+    "latex_symbols": [
+      "\\beta_M"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Ratio of smaller to the larger bending moment at the ends of a beam column"
+  },
+  "symbols-p24-right-09": {
+    "latex": "\\beta_{My},\\; \\beta_{Mz}",
+    "latex_symbols": [
+      "\\beta_{My}",
+      "\\beta_{Mz}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Equivalent uniform moment factor for flexural buckling for y-y and z-z axes respectively"
+  },
+  "symbols-p24-right-10": {
+    "latex": "\\beta_{MLT}",
+    "latex_symbols": [
+      "\\beta_{MLT}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Equivalent uniform moment factor for lateral torsional buckling"
+  },
+  "symbols-p24-right-11": {
+    "latex": "\\chi",
+    "latex_symbols": [
+      "\\chi"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Strength reduction factor to account for buckling under compression"
+  },
+  "symbols-p24-right-12": {
+    "latex": "\\chi_m",
+    "latex_symbols": [
+      "\\chi_m"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Strength reduction factor, X, at~,n",
+    "meaning_corrected": "Strength reduction factor, χ, at f_ym"
+  },
+  "symbols-p24-right-13": {
+    "latex": "\\chi_{LT}",
+    "latex_symbols": [
+      "\\chi_{LT}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Strength reduction factor to account for lateral torsional buckling of beams"
+  },
+  "symbols-p24-right-14": {
+    "latex": "\\delta",
+    "latex_symbols": [
+      "\\delta"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Storey deflection"
+  },
+  "symbols-p24-right-15": {
+    "latex": "\\delta_L",
+    "latex_symbols": [
+      "\\delta_L"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Horizontal deflection of the bottom of storey due to combined gravity and notional load"
+  },
+  "symbols-p24-right-16": {
+    "latex": "\\delta_p",
+    "latex_symbols": [
+      "\\delta_p"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Load amplification factor"
+  },
+  "symbols-p24-right-17": {
+    "latex": "\\delta_U",
+    "latex_symbols": [
+      "\\delta_U"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Horizontal deflection of the top of storey due to combined gravity and notional load"
+  },
+  "symbols-p24-right-18": {
+    "latex": "\\phi",
+    "latex_symbols": [
+      "\\phi"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Inclination of the tension field stress in web"
+  },
+  "symbols-p24-right-19": {
+    "latex": "\\gamma",
+    "latex_symbols": [
+      "\\gamma"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Unit weight of steel"
+  },
+  "symbols-p24-right-20": {
+    "latex": "\\gamma_f",
+    "latex_symbols": [
+      "\\gamma_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Partial safety factor for load"
+  },
+  "symbols-p24-right-21": {
+    "latex": "\\gamma_m",
+    "latex_symbols": [
+      "\\gamma_m"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Partial safety factor for material"
+  },
+  "symbols-p24-right-22": {
+    "latex": "\\gamma_{m0}",
+    "latex_symbols": [
+      "\\gamma_{m0}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Partial safety factor against yield stress and buckling"
+  },
+  "symbols-p24-right-23": {
+    "latex": "\\gamma_{m1}",
+    "latex_symbols": [
+      "\\gamma_{m1}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Partial safety factor against ultimate stress"
+  },
+  "symbols-p24-right-24": {
+    "latex": "\\gamma_{mb}",
+    "latex_symbols": [
+      "\\gamma_{mb}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Partial safety factor for bolted connection with bearing type bolts"
+  },
+  "symbols-p24-right-25": {
+    "latex": "\\gamma_{mf}",
+    "latex_symbols": [
+      "\\gamma_{mf}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 24,
+    "source_column": "right",
+    "definition_at_review": "Partial safety factor for bolted connection with High Strength Friction Grip bolts"
+  },
+  "symbols-p25-left-01": {
+    "latex": "\\gamma_{fft}",
+    "latex_symbols": [
+      "\\gamma_{fft}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Partial safety factor for fatigue load"
+  },
+  "symbols-p25-left-02": {
+    "latex": "\\gamma_{mft}",
+    "latex_symbols": [
+      "\\gamma_{mft}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Partial safety factor for fatigue strength"
+  },
+  "symbols-p25-left-03": {
+    "latex": "\\gamma_{mv}",
+    "latex_symbols": [
+      "\\gamma_{mv}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Partial safety factor against shear failure"
+  },
+  "symbols-p25-left-04": {
+    "latex": "\\gamma_{mw}",
+    "latex_symbols": [
+      "\\gamma_{mw}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Partial safety factor for strength of weld"
+  },
+  "symbols-p25-left-05": {
+    "latex": "\\varepsilon",
+    "latex_symbols": [
+      "\\varepsilon"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Yield stress ratio (250 /~,) ‘n"
+  },
+  "symbols-p25-left-06": {
+    "latex": "\\lambda",
+    "latex_symbols": [
+      "\\lambda"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Non-dimensional slenderness ratio = @ii7FE. a = w"
+  },
+  "symbols-p25-left-07": {
+    "latex": "\\lambda_{cr}",
+    "latex_symbols": [
+      "\\lambda_{cr}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Elastic buckling load factor"
+  },
+  "symbols-p25-left-08": {
+    "latex": "\\lambda_e",
+    "latex_symbols": [
+      "\\lambda_e"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Equivalent slenderness ratio"
+  },
+  "symbols-p25-left-09": {
+    "latex": "\\lambda_{LT}",
+    "latex_symbols": [
+      "\\lambda_{LT}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Non-dimensional slenderness ratio in lateral bending"
+  },
+  "symbols-p25-left-10": {
+    "latex": "\\lambda_{scr}",
+    "latex_symbols": [
+      "\\lambda_{scr}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Elastic buckling load factor of each storey"
+  },
+  "symbols-p25-left-11": {
+    "latex": "\\mu",
+    "latex_symbols": [
+      "\\mu"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Poisson’s ratio"
+  },
+  "symbols-p25-left-12": {
+    "latex": "\\mu_c",
+    "latex_symbols": [
+      "\\mu_c"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Correction factor"
+  },
+  "symbols-p25-left-13": {
+    "latex": "\\mu_f",
+    "latex_symbols": [
+      "\\mu_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Coefficient of friction (slip factor)"
+  },
+  "symbols-p25-left-14": {
+    "latex": "\\mu_r",
+    "latex_symbols": [
+      "\\mu_r"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Capacity reduction factor"
+  },
+  "symbols-p25-left-15": {
+    "latex": "\\theta",
+    "latex_symbols": [
+      "\\theta"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Ratio of the rotation at the hinge point to the relative elastic rotation of the far end of the beam segment containing plastic hinge"
+  },
+  "symbols-p25-left-16": {
+    "latex": "\\rho",
+    "latex_symbols": [
+      "\\rho"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Unit mass of steel"
+  },
+  "symbols-p25-left-17": {
+    "latex": "\\tau",
+    "latex_symbols": [
+      "\\tau"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Actual shear stress range for the detail category"
+  },
+  "symbols-p25-left-18": {
+    "latex": "\\tau_b",
+    "latex_symbols": [
+      "\\tau_b"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Buckling shear stress"
+  },
+  "symbols-p25-left-19": {
+    "latex": "\\tau_{ab}",
+    "latex_symbols": [
+      "\\tau_{ab}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Permissible shear stress at the service load"
+  },
+  "symbols-p25-left-20": {
+    "latex": "\\tau_{cr,e}",
+    "latex_symbols": [
+      "\\tau_{cr,e}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Elastic critical shear stress"
+  },
+  "symbols-p25-left-21": {
+    "latex": "\\tau_f",
+    "latex_symbols": [
+      "\\tau_f"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Fatigue shear stress range"
+  },
+  "symbols-p25-left-22": {
+    "latex": "\\tau_{f,\\mathrm{Max}}",
+    "latex_symbols": [
+      "\\tau_{f,\\mathrm{Max}}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Highest shear stress range"
+  },
+  "symbols-p25-left-23": {
+    "latex": "\\tau_{fd}",
+    "latex_symbols": [
+      "\\tau_{fd}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Design shear fatigue strength"
+  },
+  "symbols-p25-left-24": {
+    "latex": "\\tau_{fn}",
+    "latex_symbols": [
+      "\\tau_{fn}"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Fatigue shear stress range at N~Ccycle for the detail category",
+    "meaning_corrected": "Fatigue shear stress range at N_SC cycle for the detail category"
+  },
+  "symbols-p25-left-25": {
+    "latex": "\\tau_v",
+    "latex_symbols": [
+      "\\tau_v"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Actual shear stress at service load"
+  },
+  "symbols-p25-left-26": {
+    "latex": "\\psi",
+    "latex_symbols": [
+      "\\psi"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Ratio of the moments at the ends of the laterally unsupported length of a beam"
+  },
+  "symbols-p25-left-27": {
+    "latex": "\\Gamma",
+    "latex_symbols": [
+      "\\Gamma"
+    ],
+    "status": "verified",
+    "verification_method": "visual_pdf",
+    "reviewer": "assistant_visual_review",
+    "source_page": 25,
+    "source_column": "left",
+    "definition_at_review": "Frame buckling load factor"
+  }
+}

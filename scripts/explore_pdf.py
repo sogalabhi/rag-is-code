@@ -850,4 +850,8 @@ with open(OUTPUT21_RIGHT, encoding="utf-8") as file:
 print("Saved records:", len(saved))
 print("Missing meanings:", sum(not item["meaning"] for item in saved))
 
+from symbols_22_25 import extract_remaining_symbols
+
+extract_remaining_symbols(doc, PDF_PATH)
+
 doc.close()
