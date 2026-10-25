@@ -31,4 +31,13 @@ python scripts/prepare_demo_assets.py
 See `CHUNKING_CHECKPOINT.md` and `DEMO_ASSETS_CHECKPOINT.md` for explanations.
 Phase 1 is complete: the user reviewed the assets and exported the clauses.
 There are 946 records across the two JSONL collections, with unique IDs and
-nonempty text. Phase 2 is keyword retrieval; it has not been implemented yet.
+nonempty text. Phase 2 now has a keyword retriever. Start with:
+
+```bash
+python scripts/retrieve.py "What are the clearances for fastener holes?"
+```
+
+It prints matching terms, ranked passages and source pages, preserving table and
+image display references. No new dependencies are needed. See
+`RETRIEVAL_CHECKPOINT.md` for the theory and five review questions. User review of
+retrieval results is pending; semantic search and answer generation come later.

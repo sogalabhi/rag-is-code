@@ -50,6 +50,14 @@ come later. Comprehensive codebook coverage is outside this demo.
 - `reports/demo_assets_preview.html`: static preview of two tables and the image,
   with source links and expandable complete chunk records. It has no retrieval.
 - `requirements.txt`: existing PyMuPDF dependency, used only to regenerate a crop.
+- `scripts/retrieve.py`: standard-library keyword retriever over both JSONL
+  collections. Lowercases, tokenizes and removes common stop words; matches
+  distinct query words against chunk text and content type. Score is the number
+  of matching terms, with shorter tokenized passages preferred on ties. Original
+  metadata is preserved; clause records get `content_type=clause` and
+  `renderer=text` defaults in memory. No stemming, embeddings or generation.
+  Run one quoted question or `--examples`; `--top-k` defaults to 3. It writes no
+  files. See `RETRIEVAL_CHECKPOINT.md` for explanations and known limitations.
 
 The larger table/symbol/equation preparation datasets and old audit reports in
 the sibling folder are reference material. They are not prerequisites for this
@@ -66,9 +74,17 @@ and resolvable table/image references. All 943 exported clause texts match the
 existing source records exactly. These structural checks do not establish full
 PDF coverage or OCR accuracy.
 
-Begin Phase 2 with the theory of keyword retrieval and a small interactive
-exercise. Then build one keyword retriever reading both JSONL collections
-(943 clauses + 3 assets = 946 records), preserving renderer metadata and returning
-source pages. Let the user run it and inspect results for five example questions.
+Phase 2 has begun. The user identified `clearances`, `fastener`, and `holes` as
+useful terms and learned about stop words. They then authorized continuing.
+The retriever is implemented and developer-checked: expected evidence appears
+among the top 3 for all five documented example questions, and table/image
+references survive. Table 19 ranks first for the initial fastener-hole question.
+No-match and stop-word-only inputs are handled, and source files remain unchanged.
+These five examples are a learning sanity check, not a comprehensive evaluation.
+
+Next, let the user run
+`python scripts/retrieve.py "What are the clearances for fastener holes?"`.
+Discuss the matched terms, score and source page, then let them run `--examples`
+and assess all five rankings. User review of retrieval output is still pending.
 Do not jump to embeddings, generated answers or the interface. The user wants
-theory alongside implementation, one checkpoint at a time.
+theory alongside implementation, one short checkpoint at a time.
