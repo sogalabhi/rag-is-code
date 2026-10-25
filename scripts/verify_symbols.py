@@ -399,8 +399,11 @@ AMBIGUITIES = {
 MEANING_CORRECTIONS = {
     "symbols-p20-left-04": "Net cross-sectional area in shear along the line of transmitted force (see 6.4)",
     "symbols-p20-left-05": "Larger and smaller projection of the slab base beyond the rectangle circumscribing the column, respectively (see 7.4)",
+    "symbols-p20-left-26": "Overall depth/diameter of the cross-section",
     "symbols-p20-right-05": "Modulus of elasticity of steel at T °C",
     "symbols-p20-right-06": "Modulus of elasticity of steel at 20°C",
+    "symbols-p20-right-01": "Diameter of a bolt/rivet hole",
+    "symbols-p20-right-24": "Frequency for a simply supported one-way system",
     "symbols-p21-left-01": "Permissible tensile stress at service load",
     "symbols-p21-left-02": "Permissible tensile stress of the bolt at service load",
     "symbols-p21-left-15": "Fatigue stress range corresponding to 5 × 10⁶ cycles of loading",

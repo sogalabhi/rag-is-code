@@ -1,0 +1,68 @@
+[
+  {
+    "record_id": "symbols-p21-right-21",
+    "page": 21,
+    "column": "right",
+    "meaning": "Cenre-to-centre distance of flanges",
+    "priority": "high",
+    "matches": [
+      {
+        "category": "likely_ocr_word",
+        "text": "Cenre"
+      }
+    ],
+    "source_regions": []
+  },
+  {
+    "record_id": "symbols-p23-left-07",
+    "page": 23,
+    "column": "left",
+    "meaning": "Number of bolts in the bolt group/ critical section",
+    "priority": "low",
+    "matches": [
+      {
+        "category": "spacing_after_slash",
+        "text": "p/ c"
+      }
+    ],
+    "source_regions": [
+      {
+        "page": 23,
+        "column": "left",
+        "raw_text": "Number of bolts in the bolt group/ critical section",
+        "bbox": [
+          77.92996215820312,
+          166.00697326660156,
+          221.93069458007812,
+          189.7696075439453
+        ]
+      }
+    ]
+  },
+  {
+    "record_id": "symbols-p25-left-05",
+    "page": 25,
+    "column": "left",
+    "meaning": "Yield stress ratio (250 /~,) ‘n",
+    "priority": "high",
+    "matches": [
+      {
+        "category": "suspicious_character",
+        "text": "~"
+      }
+    ],
+    "source_regions": [
+      {
+        "page": 25,
+        "column": "left",
+        "raw_text": "Yield stress ratio (250 /~,) ‘n",
+        "bbox": [
+          94.97007751464844,
+          139.74830627441406,
+          210.6515350341797,
+          151.2704620361328
+        ]
+      }
+    ]
+  }
+]

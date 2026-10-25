@@ -1797,12 +1797,12 @@
     ],
     "page": 20,
     "column": "left",
-    "meaning": "Overall depth/diameter of the cross- section",
+    "meaning": "Overall depth/diameter of the cross-section",
     "latex": "D",
     "source_pdf": "is.800.2007.pdf",
     "record_id": "symbols-p20-left-26",
     "meaning_raw": "Overall depth/diameter of the cross- section",
-    "meaning_status": "raw_extraction_needs_review",
+    "meaning_status": "visually_corrected",
     "latex_symbols": [
       "D"
     ],
@@ -1947,12 +1947,12 @@
     ],
     "page": 20,
     "column": "right",
-    "meaning": "Diameter of a bolt/ rivet hole",
+    "meaning": "Diameter of a bolt/rivet hole",
     "latex": "d_h",
     "source_pdf": "is.800.2007.pdf",
     "record_id": "symbols-p20-right-01",
     "meaning_raw": "Diameter of a bolt/ rivet hole",
-    "meaning_status": "raw_extraction_needs_review",
+    "meaning_status": "visually_corrected",
     "latex_symbols": [
       "d_h"
     ],
@@ -3273,12 +3273,12 @@
     ],
     "page": 20,
     "column": "right",
-    "meaning": "Frequency for a simply supported one way system",
+    "meaning": "Frequency for a simply supported one-way system",
     "latex": "f_1",
     "source_pdf": "is.800.2007.pdf",
     "record_id": "symbols-p20-right-24",
     "meaning_raw": "Frequency for a simply supported one way system",
-    "meaning_status": "raw_extraction_needs_review",
+    "meaning_status": "visually_corrected",
     "latex_symbols": [
       "f_1"
     ],

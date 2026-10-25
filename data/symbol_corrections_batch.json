@@ -529,7 +529,8 @@
     "reviewer": "assistant_visual_review",
     "source_page": 20,
     "source_column": "left",
-    "definition_at_review": "Overall depth/diameter of the cross- section"
+    "definition_at_review": "Overall depth/diameter of the cross- section",
+    "meaning_corrected": "Overall depth/diameter of the cross-section"
   },
   "symbols-p20-left-27": {
     "latex": "d",
@@ -565,7 +566,8 @@
     "reviewer": "assistant_visual_review",
     "source_page": 20,
     "source_column": "right",
-    "definition_at_review": "Diameter of a bolt/ rivet hole"
+    "definition_at_review": "Diameter of a bolt/ rivet hole",
+    "meaning_corrected": "Diameter of a bolt/rivet hole"
   },
   "symbols-p20-right-02": {
     "latex": "d_o",
@@ -843,7 +845,8 @@
     "reviewer": "assistant_visual_review",
     "source_page": 20,
     "source_column": "right",
-    "definition_at_review": "Frequency for a simply supported one way system"
+    "definition_at_review": "Frequency for a simply supported one way system",
+    "meaning_corrected": "Frequency for a simply supported one-way system"
   },
   "symbols-p20-right-25": {
     "latex": "f_2",
