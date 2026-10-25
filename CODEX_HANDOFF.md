@@ -29,7 +29,8 @@ come later. Comprehensive codebook coverage is outside this demo.
 - `data/clause_candidates.json`: 817 additional candidates, imported for the demo.
 - `scripts/export_chunks.py`: builds 943 clause chunks with stable IDs, text,
   one-based PDF pages, source links and OCR flags. The user already ran and shared
-  five preview records in the sibling folder. `data/chunks.jsonl` is still pending.
+  five preview records, then ran the export in this active repository.
+  `data/chunks.jsonl` now contains 943 saved clause chunks.
 - Clause size check: 0 empty records. Longest five, in whitespace-separated words:
   5.1.2 (621), 8.4.2.2 (459), 10.7 (457), E-1.2 (429), 14.2.3 (378). Keep boundaries
   for the first baseline, then evaluate whether splitting helps retrieval.
@@ -57,9 +58,17 @@ instructions have not been applied.
 
 ## Next checkpoint
 
-Have the user inspect the three asset records and the static HTML preview here.
-Let them run `python scripts/export_chunks.py` and confirm the output before
-implementing retrieval. Then build one keyword retriever reading both JSONL
-collections (943 clauses + 3 assets = 946 records), preserving renderer metadata
-and returning source pages. Inspect results for five example questions. Do not
-implement retrieval until the user has reviewed this checkpoint.
+Phase 1 is complete. The user previewed all three asset records, opened the static
+HTML preview and confirmed that everything displayed correctly, then exported
+the 943 clause chunks and shared the output. Read-only validation confirmed 946
+unique IDs across both JSONL files, zero empty text fields, valid PDF page links,
+and resolvable table/image references. All 943 exported clause texts match the
+existing source records exactly. These structural checks do not establish full
+PDF coverage or OCR accuracy.
+
+Begin Phase 2 with the theory of keyword retrieval and a small interactive
+exercise. Then build one keyword retriever reading both JSONL collections
+(943 clauses + 3 assets = 946 records), preserving renderer metadata and returning
+source pages. Let the user run it and inspect results for five example questions.
+Do not jump to embeddings, generated answers or the interface. The user wants
+theory alongside implementation, one checkpoint at a time.

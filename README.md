@@ -29,4 +29,6 @@ python scripts/prepare_demo_assets.py
 ```
 
 See `CHUNKING_CHECKPOINT.md` and `DEMO_ASSETS_CHECKPOINT.md` for explanations.
-Retrieval is not implemented; review the assets before continuing.
+Phase 1 is complete: the user reviewed the assets and exported the clauses.
+There are 946 records across the two JSONL collections, with unique IDs and
+nonempty text. Phase 2 is keyword retrieval; it has not been implemented yet.

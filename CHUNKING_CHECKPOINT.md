@@ -36,4 +36,7 @@ The source record pointer lets you revisit original fragments and bounding boxes
 where available. Amendments are not applied. Tables and the diagram live in the
 separate three-record `data/demo_asset_chunks.jsonl` collection.
 
-Review the export and the asset preview before implementing retrieval.
+Phase 1 is complete: the user reviewed the asset preview and ran the export here.
+Validation found 943 clause chunks and 3 asset chunks, 946 unique IDs, zero empty
+text fields, and intact source references. Clause texts match their source
+records exactly. Phase 2 begins with keyword retrieval theory before coding.

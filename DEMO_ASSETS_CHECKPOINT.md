@@ -59,7 +59,8 @@ The two table records retain their existing assistant review status; independent
 review has not been performed. The remaining tables, equations, symbols, and
 amendment records are outside this checkpoint.
 
-The user has previewed the clause collection, but `data/chunks.jsonl` is still
-pending. After reviewing these three assets, the user can export clauses with
-`python scripts/export_chunks.py`. A later retriever can read both JSONL files
-as 946 total records. No retrieval has been implemented.
+Phase 1 is complete: the user reviewed the three asset records, confirmed the
+tables and diagram display correctly, and exported `data/chunks.jsonl` with 943
+clause chunks. Validation confirmed 946 unique nonempty records across the two
+collections, preserved clause text, and resolvable source/display references.
+A later retriever can read both JSONL files. No retrieval has been implemented.
