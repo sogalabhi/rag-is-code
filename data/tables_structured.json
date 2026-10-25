@@ -1,0 +1,163 @@
+[
+  {
+    "record_id": "table-05",
+    "table_number": 5,
+    "title": "Partial Safety Factor for Materials",
+    "title_symbol_latex": "\\gamma_m",
+    "pdf_page": 44,
+    "printed_page": 30,
+    "clause_references": [
+      "5.4.1"
+    ],
+    "source_bbox": [
+      30,
+      550,
+      488,
+      705
+    ],
+    "columns": [
+      "serial",
+      "definition",
+      "symbol_latex",
+      "general",
+      "shop_fabrication",
+      "field_fabrication"
+    ],
+    "rows": [
+      [
+        "i",
+        "Resistance, governed by yielding",
+        "\\gamma_{m0}",
+        "1.10",
+        null,
+        null
+      ],
+      [
+        "ii",
+        "Resistance of member to buckling",
+        "\\gamma_{m0}",
+        "1.10",
+        null,
+        null
+      ],
+      [
+        "iii",
+        "Resistance, governed by ultimate stress",
+        "\\gamma_{m1}",
+        "1.25",
+        null,
+        null
+      ],
+      [
+        "iv(a)",
+        "Resistance of connection: Bolts-Friction Type",
+        "\\gamma_{mf}",
+        null,
+        "1.25",
+        "1.25"
+      ],
+      [
+        "iv(b)",
+        "Resistance of connection: Bolts-Bearing Type",
+        "\\gamma_{mb}",
+        null,
+        "1.25",
+        "1.25"
+      ],
+      [
+        "iv(c)",
+        "Resistance of connection: Rivets",
+        "\\gamma_{mr}",
+        null,
+        "1.25",
+        "1.25"
+      ],
+      [
+        "iv(d)",
+        "Resistance of connection: Welds",
+        "\\gamma_{mw}",
+        null,
+        "1.25",
+        "1.50"
+      ]
+    ],
+    "notes": [],
+    "structure_note": "General factors and the two fabrication columns occupy different merged-header groups in the source; null means not applicable to that group.",
+    "source_pdf": "is.800.2007.pdf",
+    "reviewer": "assistant_visual_review",
+    "independent_review": false,
+    "status": "assistant_visually_reviewed",
+    "source_crop": "review_assets/table-05.png"
+  },
+  {
+    "record_id": "table-19",
+    "table_number": 19,
+    "title": "Clearances for Fastener Holes",
+    "pdf_page": 87,
+    "printed_page": 73,
+    "clause_references": [
+      "10.2.1"
+    ],
+    "source_bbox": [
+      30,
+      545,
+      487,
+      718
+    ],
+    "columns": [
+      "serial",
+      "nominal_fastener_diameter_mm",
+      "standard_clearance_mm",
+      "oversize_clearance_mm",
+      "short_slot_length_clearance_mm",
+      "long_slot_length_clearance"
+    ],
+    "rows": [
+      [
+        "i",
+        "12–14",
+        "1.0",
+        "3.0",
+        "4.0",
+        "2.5 d"
+      ],
+      [
+        "ii",
+        "16–22",
+        "2.0",
+        "4.0",
+        "6.0",
+        "2.5 d"
+      ],
+      [
+        "iii",
+        "24",
+        "2.0",
+        "6.0",
+        "8.0",
+        "2.5 d"
+      ],
+      [
+        "iv",
+        "Larger than 24",
+        "3.0",
+        "8.0",
+        "10.0",
+        "2.5 d"
+      ]
+    ],
+    "notes": [],
+    "header_notes": [
+      "Size of the hole = Nominal Diameter of the Fastener + Clearances (mm)",
+      "Standard clearance applies in diameter and width of slot.",
+      "Oversize clearance applies in diameter.",
+      "Short-slot and long-slot columns are under clearance in the length of the slot."
+    ],
+    "structure_note": "Values are transcribed as printed; d remains a symbolic expression, not a computed value.",
+    "source_pdf": "is.800.2007.pdf",
+    "reviewer": "assistant_visual_review",
+    "independent_review": false,
+    "status": "assistant_visually_reviewed",
+    "source_crop": "review_assets/table-19.png"
+  }
+]
