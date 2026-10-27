@@ -30,6 +30,9 @@ class GenerationResult:
 
 
 class LLMProvider(ABC):
+    def close(self):
+        """Release optional resources after a request; adapters may override."""
+
     @abstractmethod
     def generate(self, request: GenerationRequest) -> GenerationResult:
         """Return structured data matching the request's response schema.

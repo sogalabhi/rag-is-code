@@ -27,6 +27,9 @@ class GeminiProvider(LLMProvider):
         self.client = genai.Client(api_key=key, http_options={
             "timeout": 30000, "retry_options": {"attempts": 1}})
 
+    def close(self):
+        self.client.close()
+
     def generate(self, request: GenerationRequest) -> GenerationResult:
         config = {"system_instruction": request.system_instruction,
                   "response_mime_type": "application/json",

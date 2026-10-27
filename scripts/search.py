@@ -11,7 +11,10 @@ from pathlib import Path
 import sys
 import textwrap
 
-from retrieve import EXAMPLE_QUESTIONS, KeywordRetriever, load_chunks, tokenize
+if __package__:
+    from .retrieve import EXAMPLE_QUESTIONS, KeywordRetriever, load_chunks, tokenize
+else:
+    from retrieve import EXAMPLE_QUESTIONS, KeywordRetriever, load_chunks, tokenize
 
 ROOT = Path(__file__).resolve().parent.parent
 MODEL = "BAAI/bge-small-en-v1.5"

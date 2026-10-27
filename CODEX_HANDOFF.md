@@ -134,3 +134,18 @@ from Gemini 3.8 Flash (504) to 3.6 Flash. Cited quotes resolve to clauses 1.3.1
 (PDF 15) and 3.2.1 (PDF 29); result and attempt history are saved locally in
 ignored `.cache/live_test_answer.json`. Other configured fallback models have
 not been individually validated with live generation.
+
+## 1I design prototype
+
+The user requested a dummy UI with fake conversations, solid colors without
+gradients, a yellowish palette, serif typography, and LaTeX for formulas and
+subscripts. They then selected React. `prototype/` now implements this as a local
+React + TypeScript + Vite app, using Source Serif 4 and KaTeX. Conversations,
+follow-ups and clarification choices are scripted. Source tabs, full table rows,
+original diagram crops, PDF page links and equation copying work. On mobile,
+navigation and sources open in dialogs. It does not call the RAG or model APIs.
+
+Run `npm ci` then `npm run dev` inside `prototype/`; see its README. Original PDF
+and crop assets are copied by predev/prebuild into an ignored public directory.
+TypeScript/build and Chromium desktop/mobile interaction checks passed. Let the
+user review the visual direction before connecting the existing Python backend.

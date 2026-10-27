@@ -1,0 +1,4 @@
+# Local HTTP API; install search and model requirements for hybrid Gemini answers.
+fastapi==0.162.0
+uvicorn==0.54.0
+python-dotenv==1.2.2

@@ -1,0 +1,27 @@
+{
+  "name": "codebook-ui-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/prepare-reference.mjs",
+    "dev": "vite --host 127.0.0.1",
+    "prebuild": "node scripts/prepare-reference.mjs",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "@fontsource-variable/source-serif-4": "5.3.1",
+    "katex": "0.19.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/katex": "^0.16.7",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "6.1.2",
+    "typescript": "7.0.2",
+    "vite": "8.3.5"
+  }
+}

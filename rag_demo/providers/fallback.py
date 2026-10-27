@@ -13,6 +13,10 @@ class FallbackProvider(LLMProvider):
         if not self.providers:
             raise ValueError("At least one model provider is required.")
 
+    def close(self):
+        for provider in self.providers:
+            provider.close()
+
     def generate(self, request: GenerationRequest) -> GenerationResult:
         attempts = []
         for index, provider in enumerate(self.providers):
