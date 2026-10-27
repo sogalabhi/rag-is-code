@@ -8,7 +8,7 @@ import unittest
 from unittest.mock import patch
 
 from rag_demo.grounding import GroundedAnswerer, GroundingError, prepare_request, validate_answer
-from rag_demo.providers import GenerationResult, LLMProvider, ProviderError, create_provider
+from rag_demo.providers import FallbackProvider, GenerationResult, LLMProvider, ProviderError, create_provider
 from rag_demo.providers.gemini import GeminiProvider
 
 
@@ -128,6 +128,31 @@ class GroundedAnswerTests(unittest.TestCase):
         with self.assertRaises(ProviderError) as caught:
             provider.generate(self.request)
         self.assertNotIn("secret-key-value", str(caught.exception))
+
+    def test_fallback_answer_keeps_citations_and_records_actual_model(self):
+        class UnavailableProvider(FixtureProvider):
+            def generate(self, request):
+                raise ProviderError("Unavailable", retryable=True, status_code=503)
+
+        provider = FallbackProvider([UnavailableProvider("busy"), FixtureProvider("available")])
+        with self.assertLogs("rag_demo.providers.fallback", level="WARNING"):
+            answer = GroundedAnswerer(provider).answer("What are accidental loads?", self.results)
+        self.assertEqual(answer["generation"]["model"], "available")
+        self.assertEqual(answer["generation"]["attempts"][0]["status_code"], 503)
+        self.assertEqual(answer["sources"][0]["chunk"], self.chunk)
+
+    def test_fallback_cannot_bypass_citation_validation(self):
+        class InvalidProvider(FixtureProvider):
+            def generate(self, request):
+                return GenerationResult({
+                    "status": "answered", "claims": [{"text": "Made-up fact", "citations": [
+                        {"source_id": "S99", "quote": "invented quote"}]}], "limitations": [],
+                }, provider="fixture", model=self.model)
+
+        provider = FallbackProvider([InvalidProvider("invalid"), FixtureProvider("unused")])
+        with self.assertRaises(GroundingError):
+            GroundedAnswerer(provider).answer("What are accidental loads?", self.results)
+        self.assertEqual(provider.providers[1].calls, 0)
 
 
 if __name__ == "__main__":

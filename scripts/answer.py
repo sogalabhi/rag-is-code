@@ -44,14 +44,19 @@ def main():
     parser.add_argument("--method", choices=("keyword", "semantic", "hybrid"), default="hybrid")
     parser.add_argument("--provider", help="Provider name or module:ClassName (default: LLM_PROVIDER or gemini)")
     parser.add_argument("--model", help="Model override (default: LLM_MODEL or provider default)")
+    parser.add_argument("--fallback-models", help="Comma-separated models in attempt order (default: LLM_FALLBACK_MODELS or provider defaults)")
+    parser.add_argument("--no-fallback", action="store_true", help="Use only the selected primary model")
     parser.add_argument("--top-k", type=int, default=3)
     parser.add_argument("--preview", action="store_true", help="Inspect evidence and prompt without an API call")
     parser.add_argument("--json", action="store_true", help="Print complete result, citations and display data")
     args = parser.parse_args()
     if args.top_k < 1 or not tokenize(args.question):
         parser.error("Supply content search terms and a positive --top-k.")
+    if args.no_fallback and args.fallback_models is not None:
+        parser.error("Choose either --fallback-models or --no-fallback.")
     try:
-        provider = None if args.preview else create_provider(args.provider, args.model)
+        fallbacks = [] if args.no_fallback else args.fallback_models
+        provider = None if args.preview else create_provider(args.provider, args.model, fallback_models=fallbacks)
         chunks = load_chunks()
         keyword = KeywordRetriever(chunks)
         semantic = None if args.method == "keyword" else SemanticRetriever(chunks)

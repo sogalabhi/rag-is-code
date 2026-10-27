@@ -80,10 +80,13 @@ The first command needs the Gemini SDK only; the second also uses the semantic
 search dependencies. Generation sends the question and selected evidence to
 Google. No entire PDF or diagram pixels are uploaded by this implementation.
 
-The default model is `gemini-3.8-flash`, currently listed in Google's official
-[model documentation](https://ai.google.dev/gemini-api/docs/models). The adapter
-uses Google GenAI's documented [generateContent API](https://ai.google.dev/api/generate-content)
-with a JSON schema. Model availability and quota depend on your API account.
+The primary model is `gemini-3.8-flash`. The default fallback models, in order,
+are `gemini-3.6-flash`, `gemini-3.5-flash-lite`, and `gemini-3.1-flash-lite`.
+These text-generation models were checked against Google's official
+[model documentation](https://ai.google.dev/gemini-api/docs/models) and the
+configured key's model listing. The adapter uses Google's
+[generateContent API](https://ai.google.dev/api/generate-content) with a JSON
+schema. Model availability and quota still depend on your API account.
 
 ## Change provider or model
 
@@ -92,11 +95,39 @@ Model selection needs no code change:
 ```bash
 export LLM_PROVIDER=gemini
 export LLM_MODEL=gemini-3.8-flash
+export LLM_FALLBACK_MODELS=gemini-3.6-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite
 ```
 
 `--provider` and `--model` override those environment variables per invocation.
-`GEMINI_MODEL` supplies a Gemini-specific fallback. Defaults are resolved by the
-factory and adapter, not by retrieval or grounding code.
+`GEMINI_MODEL` is an alternate way to configure the primary when `LLM_MODEL` is
+unset. Defaults are resolved by the factory and adapter, not by retrieval or
+grounding code.
+
+`LLM_FALLBACK_MODELS` replaces the default fallback list. Empty entries and
+duplicate model IDs are skipped. An empty value disables fallback. You can also
+override or disable fallback for one invocation:
+
+```bash
+python scripts/answer.py "What are accidental loads?" --fallback-models gemini-3.5-flash-lite,gemini-3.1-flash-lite
+python scripts/answer.py "What are accidental loads?" --no-fallback
+```
+
+The factory wraps the adapters in `FallbackProvider`. It tries the same prepared
+request with each configured model until one succeeds. Gemini marks model-not-found
+(404), timeout (408), rate-limit (429), and transient server errors (500, 502, 503,
+504), plus transport failures, as recoverable. Each model gets one attempt with a
+30-second HTTP timeout; SDK retries are disabled so attempts do not multiply.
+Invalid requests, authentication errors, payment errors, and permission errors
+(400, 401, 402, 403) stop immediately. Blocked, malformed, and uncited responses
+are still rejected. A fallback does not bypass citation validation.
+
+Model switches appear on stderr. `generation.model` identifies the answering
+model, and `generation.attempts` lists failed models with HTTP codes and the final
+success. If every model fails, the error lists the attempted models and sanitized
+failure codes. Raw vendor errors and credentials are never included in these logs.
+Fallback cannot resolve a provider-wide outage or quota shared by all models.
+The error classification follows Google's
+[troubleshooting guidance](https://ai.google.dev/gemini-api/docs/troubleshooting).
 
 A new provider implements the abstract contract:
 
@@ -118,19 +149,32 @@ implementation in an importable module, then select `module.path:AnotherProvider
 as `LLM_PROVIDER`. No factory edit is required. Each adapter accepts `model=None`,
 handles its credentials and SDK, and raises `ProviderError` for provider failures.
 Citation validation remains shared. Only Gemini is implemented for live use today.
+The fallback wrapper is provider-independent. Custom adapters can opt into model
+fallbacks by exposing their selected `model` and raising
+`ProviderError(..., retryable=True, status_code=...)` for recoverable failures.
 
 ## Verification and checkpoint
 
 Offline tests cover alternate-provider injection, abstract-class enforcement,
 unknown source IDs, fabricated quotes, uncited claims, no-evidence handling,
-metadata preservation and provider error handling:
+metadata preservation, ordered model fallback, exhausted chains, configuration
+overrides, authentication failures and sanitized error reporting:
 
 ```bash
 python -m unittest discover -s tests -v
 ```
 
-The actual Google SDK was also exercised with a mocked HTTP transport, including
-request serialization and response parsing. That is not a live Gemini answer.
-No Gemini key was configured during implementation, so live generation still
-needs a user-run check. Review one cited answer before building the interactive
-interface and clarification flow.
+With the Gemini SDK installed, the suite also exercises its actual serialization
+and parsing through a mocked HTTP transport: the first model returns 503 and the
+second succeeds. This verifies that hidden SDK retries do not repeat the first
+model. That test does not contact Gemini. Without the optional SDK, that one test
+is skipped; the remaining tests need only Python's standard library.
+
+On 2026-10-27, all 23 tests passed in `.venv`. A live hybrid query, "What are
+accidental loads?", then exercised actual failover: `gemini-3.8-flash` returned
+504 and `gemini-3.6-flash` answered successfully. The answer's quotes passed shared
+validation against clauses 1.3.1 (PDF page 15) and 3.2.1 (PDF page 29), and the
+claims were checked against those passages. The complete local result is saved
+in ignored `.cache/live_test_answer.json`. This validates one real fallback, not
+the availability or answer quality of every configured model. Review the cited
+answer before building the interactive interface and clarification flow.

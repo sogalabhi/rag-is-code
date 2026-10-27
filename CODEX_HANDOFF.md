@@ -76,6 +76,18 @@ come later. Comprehensive codebook coverage is outside this demo.
   retains clause 5.4.1/Table 5 among the first three for that question but misses
   the accidental-load definition among the first three for vehicle collisions.
   Do not claim hybrid is universally better or treat similarities as confidence.
+- `scripts/answer.py`, `rag_demo/grounding.py`, `rag_demo/providers/`: grounded
+  answers through the abstract `LLMProvider` contract, Gemini adapter, configurable
+  ordered model fallback, and shared citation/quote validation. Gemini defaults to
+  3.8 Flash, then 3.6 Flash, 3.5 Flash-Lite and 3.1 Flash-Lite. `LLM_MODEL` selects
+  the primary; `LLM_FALLBACK_MODELS` replaces the fallback list. CLI overrides are
+  `--fallback-models` and `--no-fallback`. Recoverable service errors try the next
+  model once; authentication, invalid requests and invalid answers stop. JSON
+  includes the answering model and attempt history. See `ANSWER_CHECKPOINT.md`.
+- `.env` is ignored and contains the user's local configuration. It must be
+  exported before running the CLI; the script does not load it automatically.
+  The Gemini SDK is installed in ignored `.venv/`, which also uses the existing
+  system search dependencies.
 
 The larger table/symbol/equation preparation datasets and old audit reports in
 the sibling folder are reference material. They are not prerequisites for this
@@ -112,5 +124,13 @@ unchanged. User review of the combined comparison is still pending. Let them run
 `python -m pip install -r requirements-search.txt` in their environment once,
 then `python scripts/search.py --examples`. Present a short explanation of keyword,
 semantic and hybrid retrieval together. They can also read the recorded report.
-Then continue to grounded answers, the interactive demo with clarification options,
+Grounded answers and ordered model fallback are implemented. Review one live
+cited answer, then continue to the interactive demo with clarification options
 and final demo checks. Do not build the entire app without teaching checkpoints.
+
+Verification on 2026-10-27: all 23 tests passed with the optional SDK installed.
+The live hybrid question "What are accidental loads?" successfully fell back
+from Gemini 3.8 Flash (504) to 3.6 Flash. Cited quotes resolve to clauses 1.3.1
+(PDF 15) and 3.2.1 (PDF 29); result and attempt history are saved locally in
+ignored `.cache/live_test_answer.json`. Other configured fallback models have
+not been individually validated with live generation.

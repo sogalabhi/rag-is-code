@@ -5,11 +5,14 @@ import os
 from .base import GenerationRequest, GenerationResult, LLMProvider, ProviderError
 
 DEFAULT_MODEL = "gemini-3.8-flash"
+DEFAULT_FALLBACK_MODELS = ("gemini-3.6-flash", "gemini-3.5-flash-lite", "gemini-3.1-flash-lite")
 
 
 class GeminiProvider(LLMProvider):
+    default_fallback_models = DEFAULT_FALLBACK_MODELS
+
     def __init__(self, model=None, api_key=None, client=None):
-        self.model = model or os.environ.get("GEMINI_MODEL") or DEFAULT_MODEL
+        self.model = (model or os.environ.get("GEMINI_MODEL") or DEFAULT_MODEL).strip().removeprefix("models/")
         if client is not None:
             self.client = client
             return
@@ -20,7 +23,9 @@ class GeminiProvider(LLMProvider):
             from google import genai
         except ImportError as exc:
             raise ProviderError("Install Gemini support: python -m pip install -r requirements-llm.txt") from exc
-        self.client = genai.Client(api_key=key, http_options={"timeout": 60000})
+        # One request per model; avoid multiplying the fallback chain by SDK retries.
+        self.client = genai.Client(api_key=key, http_options={
+            "timeout": 30000, "retry_options": {"attempts": 1}})
 
     def generate(self, request: GenerationRequest) -> GenerationResult:
         config = {"system_instruction": request.system_instruction,
@@ -33,8 +38,21 @@ class GeminiProvider(LLMProvider):
         except Exception as exc:
             # Avoid exposing URLs, request headers, or credentials in CLI output.
             code = getattr(exc, "code", None)
+            code = code if isinstance(code, int) else None
+            retryable = code in (404, 408, 429, 500, 502, 503, 504) or isinstance(
+                exc, (TimeoutError, ConnectionError))
+            if code is None:
+                try:
+                    from httpx import TransportError
+                except ImportError:
+                    pass
+                else:
+                    retryable = retryable or isinstance(exc, TransportError)
             detail = f"status {code}" if isinstance(code, int) else type(exc).__name__
-            raise ProviderError(f"Gemini request failed ({detail}). Check connectivity, key, model and quota.") from exc
+            raise ProviderError(
+                f"Gemini request failed ({detail}). Check connectivity, key, model and quota.",
+                retryable=retryable, status_code=code,
+            ) from exc
         if not response.text:
             raise ProviderError("Gemini returned no text. The response may have been blocked or incomplete.")
         try:

@@ -51,8 +51,8 @@ python scripts/search.py --examples
 
 This compares all three methods across six questions. The first semantic run
 downloads a local model and builds a cached index; later runs reuse it. Read
-`SEARCH_CHECKPOINT.md` for the theory. Answer generation and the interface remain
-later steps.
+`SEARCH_CHECKPOINT.md` for the theory. The interactive interface remains a later
+step.
 
 Recorded results and tradeoffs are in `reports/search_comparison.md`. Semantic
 search fixes the vehicle-collision paraphrase; hybrid search is not best for
@@ -68,4 +68,12 @@ python scripts/answer.py "What are accidental loads?" --method keyword --preview
 For live generation install `requirements-llm.txt`, export `GEMINI_API_KEY`, and
 run the same command without `--preview`. `LLM_PROVIDER` and `LLM_MODEL` select
 the implementation and model. See `ANSWER_CHECKPOINT.md` for theory, configuration,
-provider extension and verification status. Live Gemini validation is pending.
+provider extension and verification status.
+
+Gemini generation automatically tries `gemini-3.8-flash`, `gemini-3.6-flash`,
+`gemini-3.5-flash-lite`, then `gemini-3.1-flash-lite` when models are unavailable,
+rate-limited, or time out. `LLM_MODEL` selects the primary and
+`LLM_FALLBACK_MODELS` supplies a comma-separated fallback order. Each model is
+attempted once. Use `--fallback-models` to override the list or `--no-fallback`
+to use only the primary. JSON output records the attempt history and actual
+answering model; citation validation remains the same for every model.

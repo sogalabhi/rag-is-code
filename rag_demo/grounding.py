@@ -140,4 +140,5 @@ class GroundedAnswerer:
         generated = self.provider.generate(request)
         answer = validate_answer(generated.data, sources)
         return {"question": question, **answer, "generation": {
-            "provider": generated.provider, "model": generated.model, "usage": generated.usage}}
+            "provider": generated.provider, "model": generated.model, "usage": generated.usage,
+            "attempts": generated.attempts}}

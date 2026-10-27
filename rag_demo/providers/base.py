@@ -7,6 +7,11 @@ from typing import Any
 class ProviderError(RuntimeError):
     """Provider setup, transport, or response-format failure."""
 
+    def __init__(self, message, *, retryable=False, status_code=None):
+        super().__init__(message)
+        self.retryable = retryable
+        self.status_code = status_code
+
 
 @dataclass(frozen=True)
 class GenerationRequest:
@@ -21,6 +26,7 @@ class GenerationResult:
     provider: str
     model: str
     usage: dict[str, int | None] = field(default_factory=dict)
+    attempts: list[dict[str, Any]] = field(default_factory=list)
 
 
 class LLMProvider(ABC):
