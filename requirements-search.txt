@@ -1,0 +1,3 @@
+# Optional local semantic/hybrid search; keyword search needs no packages.
+fastembed==0.9.1
+numpy>=1.26,<3

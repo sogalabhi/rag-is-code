@@ -58,6 +58,24 @@ come later. Comprehensive codebook coverage is outside this demo.
   `renderer=text` defaults in memory. No stemming, embeddings or generation.
   Run one quoted question or `--examples`; `--top-k` defaults to 3. It writes no
   files. See `RETRIEVAL_CHECKPOINT.md` for explanations and known limitations.
+- `scripts/search.py`: compares keyword, local semantic and hybrid retrieval.
+  Optional dependencies are in `requirements-search.txt` (FastEmbed 0.9.1 and
+  NumPy). Uses `BAAI/bge-small-en-v1.5` with 384-dimensional normalized embeddings
+  and cosine similarity. 384-token windows overlap by 48 tokens; the 946 original
+  records become 959 embedding windows, collapsed back to source records at search
+  time. Hybrid search uses reciprocal rank fusion with constant 60 over the best
+  20 candidates per method. All source/renderer metadata is retained. `--examples`
+  compares six questions; `--method` selects a method; `--json` keeps full metadata.
+  Models and signature-checked vectors are cached under ignored `.cache/`. This
+  agent has built and verified the cache locally; users can recreate it on first
+  run. No embedding API or vector database server is required.
+- `SEARCH_CHECKPOINT.md`: theory and the combined comparison command.
+- `reports/search_comparison.md`: actual top results and observed failures for
+  six example questions. Semantic search improves vehicle collisions and minimum
+  connection action, but ranks general material safety factors poorly. Hybrid
+  retains clause 5.4.1/Table 5 among the first three for that question but misses
+  the accidental-load definition among the first three for vehicle collisions.
+  Do not claim hybrid is universally better or treat similarities as confidence.
 
 The larger table/symbol/equation preparation datasets and old audit reports in
 the sibling folder are reference material. They are not prerequisites for this
@@ -82,9 +100,17 @@ references survive. Table 19 ranks first for the initial fastener-hole question.
 No-match and stop-word-only inputs are handled, and source files remain unchanged.
 These five examples are a learning sanity check, not a comprehensive evaluation.
 
-Next, let the user run
-`python scripts/retrieve.py "What are the clearances for fastener holes?"`.
-Discuss the matched terms, score and source page, then let them run `--examples`
-and assess all five rankings. User review of retrieval output is still pending.
-Do not jump to embeddings, generated answers or the interface. The user wants
-theory alongside implementation, one short checkpoint at a time.
+The user then said progress was too slow. Change the pace: handle routine checks
+autonomously, group related implementation into working features, keep theory
+short, and request one meaningful review per feature. Do not require pasting
+each result or answering a quiz for every small step.
+
+The combined Phase 2/3 search comparison is now implemented and checked with real
+local embeddings: six questions, normalized vectors, cached reload, stale-corpus
+detection, rank fusion, unique results and preserved metadata. The sources are
+unchanged. User review of the combined comparison is still pending. Let them run
+`python -m pip install -r requirements-search.txt` in their environment once,
+then `python scripts/search.py --examples`. Present a short explanation of keyword,
+semantic and hybrid retrieval together. They can also read the recorded report.
+Then continue to grounded answers, the interactive demo with clarification options,
+and final demo checks. Do not build the entire app without teaching checkpoints.

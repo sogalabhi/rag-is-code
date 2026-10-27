@@ -39,5 +39,33 @@ python scripts/retrieve.py "What are the clearances for fastener holes?"
 
 It prints matching terms, ranked passages and source pages, preserving table and
 image display references. No new dependencies are needed. See
-`RETRIEVAL_CHECKPOINT.md` for the theory and five review questions. User review of
-retrieval results is pending; semantic search and answer generation come later.
+`RETRIEVAL_CHECKPOINT.md` for the theory and five review questions. The user asked
+for larger checkpoints, so review is now combined with the comparison below.
+
+Semantic and hybrid search are now available as a larger comparison checkpoint:
+
+```bash
+python -m pip install -r requirements-search.txt
+python scripts/search.py --examples
+```
+
+This compares all three methods across six questions. The first semantic run
+downloads a local model and builds a cached index; later runs reuse it. Read
+`SEARCH_CHECKPOINT.md` for the theory. Answer generation and the interface remain
+later steps.
+
+Recorded results and tradeoffs are in `reports/search_comparison.md`. Semantic
+search fixes the vehicle-collision paraphrase; hybrid search is not best for
+every question. Both retain the same source, table and diagram metadata.
+
+Grounded answers now use a pluggable `LLMProvider` abstract class with Gemini as
+the first adapter. Preview the exact evidence and model input without a key:
+
+```bash
+python scripts/answer.py "What are accidental loads?" --method keyword --preview
+```
+
+For live generation install `requirements-llm.txt`, export `GEMINI_API_KEY`, and
+run the same command without `--preview`. `LLM_PROVIDER` and `LLM_MODEL` select
+the implementation and model. See `ANSWER_CHECKPOINT.md` for theory, configuration,
+provider extension and verification status. Live Gemini validation is pending.
